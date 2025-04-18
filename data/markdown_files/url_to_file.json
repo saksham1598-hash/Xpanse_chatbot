@@ -1,0 +1,74 @@
+{
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/16/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_16.md",
+    "is_section": true,
+    "timestamp": "1744837312.3734186",
+    "size_bytes": 985
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/17/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_17.md",
+    "is_section": true,
+    "timestamp": "1744777131.0922601",
+    "size_bytes": 41532
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/19/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_19.md",
+    "is_section": true,
+    "timestamp": "1744641924.4663167",
+    "size_bytes": 702
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/2/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_2.md",
+    "is_section": true,
+    "timestamp": "1744641924.904541",
+    "size_bytes": 19358
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/3/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_3.md",
+    "is_section": true,
+    "timestamp": "1744641924.9472194",
+    "size_bytes": 966
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/31/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_31.md",
+    "is_section": true,
+    "timestamp": "1744641926.6737423",
+    "size_bytes": 6518
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/9/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_9.md",
+    "is_section": true,
+    "timestamp": "1744641926.813816",
+    "size_bytes": 5178
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/37/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_37.md",
+    "is_section": true,
+    "timestamp": "1744641926.916846",
+    "size_bytes": 29389
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/interp-17/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_interp-17.md",
+    "is_section": false,
+    "timestamp": "1744641927.227274",
+    "size_bytes": 20398
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1024/versions/17/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1024_versions_17.md",
+    "is_section": false,
+    "timestamp": "1744641927.2907033",
+    "size_bytes": 19645
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/1026/41/": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_1026_41.md",
+    "is_section": true,
+    "timestamp": "1744641928.954607",
+    "size_bytes": 82079
+  },
+  "https://www.consumerfinance.gov/rules-policy/regulations/search-regulations/results/?regs=1024": {
+    "file_path": "/Users/sam/Downloads/rag_app_complete/data/markdown_files/www_consumerfinance_gov_rules-policy_regulations_search-regulations_results__regs_1024.md",
+    "is_section": false,
+    "timestamp": "1744641928.9899056",
+    "size_bytes": 11241
+  }
+}

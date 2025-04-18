@@ -1,0 +1,8 @@
+{
+    "strategy": "sentence_token_chunking",
+    "function": "sentence_token_chunk",
+    "params": {
+        "model_name": "all-MiniLM-L6-v2",
+        "chunk_token_limit": 300
+    }
+}

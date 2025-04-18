@@ -1,0 +1,9 @@
+{
+    "strategy": "semantic_chunking",
+    "function": "semantic_chunk",
+    "params": {
+        "model_name": "all-MiniLM-L6-v2",
+        "max_chunk_size": 2000,
+        "overlap_size": 100
+    }
+}
