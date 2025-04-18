@@ -25,6 +25,7 @@ def main():
 
         answer = rag_pipeline.answer_question(question)
         logger.info("Generated answer successfully.")
+        print("Answer:\n")
         print(answer)
 
     except Exception as e:
