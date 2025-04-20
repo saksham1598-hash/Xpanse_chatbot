@@ -19,3 +19,7 @@ Answer:
 - A clear and conclusive answer to the question based on the context.  
 - If the context was insufficient, state: "The context I gathered does not contain sufficient information to answer this question ,you may continue with: "However, based on my general understanding of escrow regulations and the context I gathered, maybe this could be helpful:"
 """
+
+
+
+# q-A borrower's initial escrow account statement shows an anticipated increase in property taxes in the second year of the loan. According to the regulation, what specific document is the originator or servicer encouraged to provide to the consumer in this situation, and what is the purpose of this disclosure?

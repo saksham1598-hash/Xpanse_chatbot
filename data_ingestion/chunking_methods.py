@@ -1,8 +1,7 @@
-import logging
 from pathlib import Path
 import sys 
 import os
-
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
 from typing import List, Optional
 from config import Chunk_param
 from langchain_experimental.text_splitter import SemanticChunker
@@ -11,7 +10,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from sentence_transformers import SentenceTransformer
 from nltk.tokenize import sent_tokenize
 
-sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
+
 # Set up logging
 
 

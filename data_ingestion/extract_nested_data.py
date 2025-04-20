@@ -12,7 +12,7 @@ root_dir = current_dir.parent
 sys.path.append(str(root_dir))
 
 from config import RAG_CONFIG
-from scraper import extract_section, save_markdown_and_mapping
+from data_ingestion.scraper import extract_section, save_markdown_and_mapping
 
 # Import the web crawler
 from crawl4ai import AsyncWebCrawler

@@ -40,6 +40,13 @@ collection_name = vector_store_path.name
 
 # === Main RAG Config ===
 RAG_CONFIG = {
+
+    # "graph_rag_enabled": True,  # False: Standard RAG, True: Graph RAG
+    "graph_rag": {
+        "working_dir": DATA_DIR / "knowledge_graphs",
+        "mode": "mix"  # Options: "naive", "local", "global", "hybrid", "mix"
+    },
+    
     "vector_store": {
         "type": "chroma",
         "path": vector_store_path,
@@ -73,13 +80,13 @@ RAG_CONFIG = {
     # === Data Paths ===
     "paths": {
         "raw_data": DATA_DIR / "raw",
-        "processed_data": DATA_DIR / "processed",
+        "graph_rag": DATA_DIR / "knowledge_graphs",
         "markdown_files": DATA_DIR / "markdown_files"
     }
 }
 
 # Ensure all main paths exist
-for key in ["raw_data", "processed_data", "markdown_files"]:
+for key in ["raw_data", "graph_rag", "markdown_files"]:
     RAG_CONFIG["paths"][key].mkdir(parents=True, exist_ok=True)
 
 # Add raw_links path separately
@@ -100,3 +107,4 @@ RAG_CONFIG["URL_EXTRACT"] = {
         "default_regulation": "1024"    # Default regulation number to add when missing(optional)
     }
 }
+

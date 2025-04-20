@@ -8,7 +8,7 @@ import json
 from datetime import datetime
 from urllib.parse import urldefrag, urlparse, urlunparse
 from pathlib import Path
-from scraper import extract_section
+from data_ingestion.scraper import extract_section
 from crawl4ai import AsyncWebCrawler
 from config import RAG_CONFIG
 

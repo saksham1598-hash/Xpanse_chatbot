@@ -7,10 +7,12 @@ from pathlib import Path
 from crawl4ai import AsyncWebCrawler
 import sys
 
-current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
-root_dir = current_dir.parent
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
 
-sys.path.append(str(root_dir))
+# current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+# root_dir = current_dir.parent
+
+# sys.path.append(str(root_dir))
 
 # Import the configuration
 from config import RAG_CONFIG
