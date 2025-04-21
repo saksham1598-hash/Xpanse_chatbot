@@ -130,7 +130,7 @@ To run the Xpanse Chatbot:
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/saksham1598-hash/Xpanse_chatbot.git
-   cd xpanse_chatbot
+   cd Xpanse_chatbot
    ```
 
 2. **Create & activate a Python environment**  
@@ -141,7 +141,6 @@ To run the Xpanse Chatbot:
 
 3. **Install dependencies**  
    ```bash
-   pip install --upgrade pip
    pip install -r requirements.txt
    ```
 
@@ -166,13 +165,13 @@ To run the Xpanse Chatbot:
    - "Submit feedback (ratings & comments)" — all traced in Langfuse
 
 6. **(Optional) Start Lanfuse to see LLM traces, interaction,  and feedback, etc**
-    - Open a new terminal
+    - Open a new terminal after starting docker dekstop
 
     ```
     docker-compose -f langfuse/docker-compose.yml up --build 
     ```
 
-7. **(Optional) Run the CLI application**  
+8. **(Optional) Run the CLI application**  
    ```bash
    python app.py "What is the latest regulation for escrow accounts?"
    ```
