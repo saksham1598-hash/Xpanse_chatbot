@@ -197,8 +197,8 @@ To run the Xpanse Chatbot:
 ## Supplementary file - 
   **link** -https://drive.google.com/drive/folders/1EEHzuRGgdXri4qXXlX3k4OeGmAftqFzu?usp=sharing)
   - Bonus.md file contains answers to the bonus points - Moving this to AWS and the CI/CD production pipeline
-  - file related to fine-tuning approach and some example Q/A pairs for comparison
-  - Evolution of responses through different prompt engineering approaches, Standard RAG, and Knowledge Graph
+  - Chatbot functionality and evolution of responses through different prompt engineering approaches, Standard RAG, and Knowledge Graph and fine-tuning approach for comparison
+  - Langfuse details to view LLM tracing 
 
 
 
