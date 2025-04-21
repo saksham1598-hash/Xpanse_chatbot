@@ -1,7 +1,11 @@
 # tests/test_retriever_factory.py
+import os
+from pathlib import Path
+import sys
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
 import pytest
 from unittest.mock import patch, MagicMock
-from retriever.factory import get_retriever, RetrieverFactoryConfig
+from src.retriever.factory import get_retriever, RetrieverFactoryConfig
 from pydantic import ValidationError
 
 # Test the RetrieverFactoryConfig validation
@@ -56,7 +60,7 @@ class TestRetrieverFactoryConfig:
 
 # Test the retriever factory function
 class TestGetRetriever:
-    @patch('retriever.factory.BasicRetriever')
+    @patch('src.retriever.factory.BasicRetriever')
     def test_get_basic_retriever(self, mock_basic):
         # Setup the mock
         mock_instance = MagicMock()
@@ -79,7 +83,7 @@ class TestGetRetriever:
         )
         assert retriever == mock_instance
 
-    @patch('retriever.factory.BM25RerankedRetriever')
+    @patch('src.retriever.factory.BM25RerankedRetriever')
     def test_get_bm25_retriever(self, mock_bm25):
         # Setup the mock
         mock_instance = MagicMock()
@@ -103,7 +107,7 @@ class TestGetRetriever:
         )
         assert retriever == mock_instance
 
-    @patch('retriever.factory.ReciprocalRankFusionRetriever')
+    @patch('src.retriever.factory.ReciprocalRankFusionRetriever')
     def test_get_fusion_retriever(self, mock_fusion):
         # Setup the mock
         mock_instance = MagicMock()
@@ -133,7 +137,7 @@ class TestGetRetriever:
         with pytest.raises(ValueError):
             get_retriever({"invalid": "config"})
 
-    @patch('retriever.factory.BasicRetriever')
+    @patch('src.retriever.factory.BasicRetriever')
     def test_default_parameters(self, mock_basic):
         # Setup the mock
         mock_instance = MagicMock()
@@ -154,7 +158,7 @@ class TestGetRetriever:
             k=5  # Default value
         )
 
-    @patch('retriever.factory.logger')
+    @patch('src.retriever.factory.logger')
     def test_exception_handling(self, mock_logger):
         # Set up a config that will cause an exception in the retriever initialization
         config = {
@@ -163,7 +167,7 @@ class TestGetRetriever:
         }
         
         # Mock the BasicRetriever to raise an exception
-        with patch('retriever.factory.BasicRetriever', side_effect=Exception("Test error")):
+        with patch('src.retriever.factory.BasicRetriever', side_effect=Exception("Test error")):
             # Verify the function raises the exception
             with pytest.raises(Exception, match="Test error"):
                 get_retriever(config)

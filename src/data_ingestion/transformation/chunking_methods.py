@@ -1,7 +1,7 @@
-from pathlib import Path
 import sys 
 import os
-sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
+from pathlib import Path
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent.parent))
 from typing import List, Optional
 from config import Chunk_param
 from langchain_experimental.text_splitter import SemanticChunker
@@ -12,9 +12,7 @@ from nltk.tokenize import sent_tokenize
 
 
 # Set up logging
-
-
-from utils.logger import get_logger
+from src.utils.logger import get_logger
 logger = get_logger()
 
 def split_with_overlap(text: str, max_size: int, overlap: int) -> List[str]:

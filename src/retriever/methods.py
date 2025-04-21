@@ -266,15 +266,20 @@
 #         return fused_results[:self.fusion_k]
 
 # retriever/methods.py
-from typing import List, Tuple, Dict, Any, Optional, Union
+import os
+from pathlib import Path
+import sys
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent))
+from typing import List, Tuple, Dict, Any
 from langchain_openai import OpenAIEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
 from rank_bm25 import BM25Okapi
-from utils.logger import get_logger
+from src.utils.logger import get_logger
 import time
 from functools import wraps
-from retriever.models import (
+
+from src.retriever.models import (
     SearchQuery, DocumentScore, RetrievalResult, RetrievalResultWithScores,
     BasicRetrieverConfig, BM25RerankedRetrieverConfig, ReciprocalRankFusionRetrieverConfig
 )

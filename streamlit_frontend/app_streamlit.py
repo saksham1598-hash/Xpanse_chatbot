@@ -140,8 +140,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from config import RAG_CONFIG
-from rag.rag_chain import RAGChain
-from rag.graph_rag import get_kg_answer
+from src.rag.rag_chain import RAGChain
+from src.rag.graph_rag import get_kg_answer
 
 # --- Custom CSS (same as before) ---
 CUSTOM_CSS = """

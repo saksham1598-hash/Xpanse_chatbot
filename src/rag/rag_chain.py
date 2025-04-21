@@ -1,13 +1,18 @@
 
 import time
-from retriever.factory import get_retriever
+import os
+import sys
+from pathlib import Path
+
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent))
+from src.retriever.factory import get_retriever
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
-from prompt import template
+from src.prompt import template
 from langchain_core.runnables import RunnableLambda
-from utils.logger import get_logger
+from src.utils.logger import get_logger
 
 logger = get_logger()
 
@@ -53,5 +58,4 @@ class RAGChain:
         except Exception as e:
             logger.exception(f"Failed to generate answer for query: {query}")
             return "An error occurred while generating the answer."
-
 

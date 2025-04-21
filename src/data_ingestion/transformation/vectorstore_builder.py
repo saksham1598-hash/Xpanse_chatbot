@@ -1,20 +1,20 @@
 import sys
 import os
 from pathlib import Path
-sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent.parent))
 import json
 from pathlib import Path
 from uuid import uuid4
 from langchain_core.documents import Document
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
-from chunking_methods import chunk_text
+from src.data_ingestion.transformation.chunking_methods import chunk_text
 
 
 from config import RAG_CONFIG, Chunk_param
 
 # Set up logging
-from utils.logger import get_logger
+from src.utils.logger import get_logger
 logger = get_logger()
 
 def get_param_hash(params: dict) -> str:

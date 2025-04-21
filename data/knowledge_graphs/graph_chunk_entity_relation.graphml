@@ -11,20 +11,20 @@
 <key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
 <graph edgedefault="undirected"><node id="Regulation X">
   <data key="d0">Regulation X</data>
-  <data key="d1">organization</data>
+  <data key="d1">category</data>
   <data key="d2">Regulation X is a comprehensive set of rules implemented by the Consumer Financial Protection Bureau (CFPB) that governs various aspects of mortgage servicing and mortgage-related disclosures. It is directly related to the Real Estate Settlement Procedures Act (RESPA) and aims to protect consumers involved in federally related mortgage loans. Regulation X ensures that crucial information is disclosed to borrowers during mortgage transactions and delineates the terms and processes associated with these loans.
 
 The regulation establishes important rules for the management of escrow accounts linked to mortgage loans, detailing the necessary calculations and limitations for their proper administration. It also mandates electronic disclosures in compliance with the E-Sign Act, which enhances transparency and accessibility for consumers. Additionally, Regulation X addresses the implications of force-placed insurance, thereby reinforcing consumer protections in mortgage dealings.
 
-Moreover, Regulation X outlines the permissible changes and requirements for the HUD-1 settlement statement, ensuring that consumers receive clear and accurate information during real estate transactions. Overall, Regulation X plays a vital role in promoting fairness and clarity in the mortgage industry, thereby benefiting consumers in their complex financial decisions related to homeownership.</data>
-  <data key="d3">chunk-e31b62d2796251985e8c615923be4cf5&lt;SEP&gt;chunk-0031a6554d7d6f650917d185dca826a6&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-4523fa52055965ffd8fb7c7a1badd8bf&lt;SEP&gt;chunk-1d42271ce6fb4dee8837d86cbc31e6d3&lt;SEP&gt;chunk-2d9a053c7e6fcbe30183acce208ca0c2&lt;SEP&gt;chunk-399f39da1040bde30c9973a4645181bd&lt;SEP&gt;chunk-86c2bd8ff165a9031d24150a1f7343b7&lt;SEP&gt;chunk-f3f248b6dcc905cb618bc79b5abce479&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-83b73ab7e1a0712a79396df18f6ec6fd</data>
+Moreover, Regulation X outlines the permissible changes and requirements for the HUD-1 settlement statement, ensuring that consumers receive clear and accurate information during real estate transactions. Overall, Regulation X plays a vital role in promoting fairness and clarity in the mortgage industry, thereby benefiting consumers in their complex financial decisions related to homeownership.&lt;SEP&gt;Regulation X is a regulation implemented by the CFPB that establishes rules for mortgage servicing and mortgage-related disclosures to protect consumers.&lt;SEP&gt;Regulation X refers to a set of rules established under RESPA to ensure transparency and fairness in residential mortgage servicing.</data>
+  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-f3f248b6dcc905cb618bc79b5abce479&lt;SEP&gt;chunk-86c2bd8ff165a9031d24150a1f7343b7&lt;SEP&gt;chunk-399f39da1040bde30c9973a4645181bd&lt;SEP&gt;chunk-2d9a053c7e6fcbe30183acce208ca0c2&lt;SEP&gt;chunk-1d42271ce6fb4dee8837d86cbc31e6d3&lt;SEP&gt;chunk-e31b62d2796251985e8c615923be4cf5&lt;SEP&gt;chunk-4523fa52055965ffd8fb7c7a1badd8bf&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-83b73ab7e1a0712a79396df18f6ec6fd&lt;SEP&gt;chunk-0031a6554d7d6f650917d185dca826a6</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="RESPA">
   <data key="d0">RESPA</data>
   <data key="d1">category</data>
-  <data key="d2">RESPA, or the Real Estate Settlement Procedures Act, is a federal law in the United States designed to assist homeowners and consumers during the real estate transaction process. It aims to enhance consumer understanding of the settlement process and protect them from unethical practices by ensuring clear disclosures of settlement costs and regulating settlement service providers. Specifically, RESPA helps consumers compare settlement service costs, promotes transparency in loan servicing practices, and safeguards against excessively high settlement charges. By requiring detailed disclosures, the legislation empowers consumers to make informed decisions while navigating the complexities of buying a home.</data>
-  <data key="d3">chunk-bb980b10f7255e058ada0d49e625f207&lt;SEP&gt;chunk-1d42271ce6fb4dee8837d86cbc31e6d3&lt;SEP&gt;chunk-2d9a053c7e6fcbe30183acce208ca0c2&lt;SEP&gt;chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
+  <data key="d2">RESPA (Real Estate Settlement Procedures Act) is a federal law designed to help homeowners understand the settlement process and protect them from unethical practices by requiring clear disclosures of settlement costs.&lt;SEP&gt;RESPA, or the Real Estate Settlement Procedures Act, is a federal law in the United States designed to assist homeowners and consumers during the real estate transaction process. It aims to enhance consumer understanding of the settlement process and protect them from unethical practices by ensuring clear disclosures of settlement costs and regulating settlement service providers. Specifically, RESPA helps consumers compare settlement service costs, promotes transparency in loan servicing practices, and safeguards against excessively high settlement charges. By requiring detailed disclosures, the legislation empowers consumers to make informed decisions while navigating the complexities of buying a home.&lt;SEP&gt;RESPA stands for the Real Estate Settlement Procedures Act, which is a federal law designed to help consumers become better informed about settlement costs and processes when buying a home.&lt;SEP&gt;RESPA, the Real Estate Settlement Procedures Act, is a U.S. law designed to help consumers when buying a home and protect them from unnecessarily high settlement charges.</data>
+  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-2d9a053c7e6fcbe30183acce208ca0c2&lt;SEP&gt;chunk-1d42271ce6fb4dee8837d86cbc31e6d3&lt;SEP&gt;chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="federally related mortgage loan">
@@ -267,12 +267,12 @@ In addition to these financial and operational roles, the Servicer plays a criti
 <node id="Consumer Financial Protection Bureau">
   <data key="d0">Consumer Financial Protection Bureau</data>
   <data key="d1">organization</data>
-  <data key="d2">The Consumer Financial Protection Bureau (CFPB) is a U.S. government agency dedicated to protecting consumers in the financial sector. Its primary mission is to uphold consumer rights, ensuring that individuals are treated fairly and have access to essential financial information. The Bureau oversees a variety of financial institutions, enforcing regulations pertaining to numerous financial products and services, with a particular focus on mortgage loan servicing, escrow accounts, and force-placed insurance.
+  <data key="d2">The Consumer Financial Protection Bureau (CFPB) is a U.S. government agency dedicated to protecting consumers within the financial sector. Its primary mission is to uphold consumer rights, ensuring individuals are treated fairly and have access to essential financial information. The CFPB oversees numerous financial institutions and enforces regulations concerning a wide range of financial products and services, with a particular emphasis on mortgage loan servicing, escrow accounts, and force-placed insurance.
 
-As part of its mandate, the CFPB implements and enforces consumer protection regulations, including those outlined in Regulation X, which addresses mortgage settlement and servicing practices. The Bureau plays a critical role in fostering a transparent and equitable financial marketplace, equipping consumers with the necessary resources and protections to safely navigate their financial options.
+The Bureau implements and enforces consumer protection regulations, especially those outlined in Regulation X, which relates to mortgage settlement and servicing practices. Through these efforts, the CFPB aims to foster a transparent and equitable financial marketplace, providing consumers with the necessary resources and protections to navigate their financial options safely.
 
-In addition to its regulatory functions, the CFPB provides valuable resources, conducts research, and offers compliance guidance to assist both consumers and financial entities in understanding and adhering to consumer protection standards. Overall, the CFPB strives to promote a fair financial marketplace by safeguarding consumer interests and enforcing laws related to consumer loans, bankruptcy, and mortgage lending.</data>
-  <data key="d3">chunk-edd2b6454dad4b91c08c0e822e7052a9&lt;SEP&gt;chunk-af4c87cd145caa5dcae4e34a95edd62f&lt;SEP&gt;chunk-16a29965a27df3e0bbbe148a18921483&lt;SEP&gt;chunk-6558cd155590495d4e8936a098dbb6b4&lt;SEP&gt;chunk-b6280dc315f6f9316110d0227835eccf&lt;SEP&gt;chunk-0905754bba6e21ec6367d6bcb98fab30&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-e31b62d2796251985e8c615923be4cf5&lt;SEP&gt;chunk-60c4c20d8bc6a52cda7d60a42edba754&lt;SEP&gt;chunk-d5722058b331687d6a28555128bfb3be&lt;SEP&gt;chunk-9e7f1720b60b150596557d5a7cfcb1f0&lt;SEP&gt;chunk-4523fa52055965ffd8fb7c7a1badd8bf&lt;SEP&gt;chunk-bb980b10f7255e058ada0d49e625f207&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-f3f248b6dcc905cb618bc79b5abce479&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-f49562ee16f1eb1fb67b975d9a6dad22&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-e6d5b3e293d8f6d23e9f3516bd0a5c51&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-af08dffacc55223531b7b223d44e95df&lt;SEP&gt;chunk-399f39da1040bde30c9973a4645181bd&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
+In addition to its regulatory responsibilities, the CFPB offers valuable resources, conducts research, and provides compliance guidance to assist both consumers and financial entities in understanding and adhering to consumer protection standards. Overall, the CFPB strives to promote a fair financial marketplace by safeguarding consumer interests and enforcing laws related to consumer loans, bankruptcy, and mortgage lending, ensuring compliance with federal laws governing the financial sector.</data>
+  <data key="d3">chunk-f3f248b6dcc905cb618bc79b5abce479&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-b6280dc315f6f9316110d0227835eccf&lt;SEP&gt;chunk-60c4c20d8bc6a52cda7d60a42edba754&lt;SEP&gt;chunk-bb980b10f7255e058ada0d49e625f207&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1&lt;SEP&gt;chunk-af08dffacc55223531b7b223d44e95df&lt;SEP&gt;chunk-9e7f1720b60b150596557d5a7cfcb1f0&lt;SEP&gt;chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-6558cd155590495d4e8936a098dbb6b4&lt;SEP&gt;chunk-4523fa52055965ffd8fb7c7a1badd8bf&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-399f39da1040bde30c9973a4645181bd&lt;SEP&gt;chunk-e31b62d2796251985e8c615923be4cf5&lt;SEP&gt;chunk-f49562ee16f1eb1fb67b975d9a6dad22&lt;SEP&gt;chunk-0905754bba6e21ec6367d6bcb98fab30&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-16a29965a27df3e0bbbe148a18921483&lt;SEP&gt;chunk-edd2b6454dad4b91c08c0e822e7052a9&lt;SEP&gt;chunk-d5722058b331687d6a28555128bfb3be&lt;SEP&gt;chunk-e6d5b3e293d8f6d23e9f3516bd0a5c51&lt;SEP&gt;chunk-af4c87cd145caa5dcae4e34a95edd62f&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3&lt;SEP&gt;chunk-0d21c3f0833b49b42c25a9461457d648</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="New Servicer">
@@ -313,8 +313,8 @@ In addition to its regulatory functions, the CFPB provides valuable resources, c
 <node id="State Law">
   <data key="d0">State Law</data>
   <data key="d1">geo</data>
-  <data key="d2">State Law governs legal stipulations and regulations that may affect loans and servicers in a specific state.&lt;SEP&gt;State law encompasses the legal regulations and statutes enacted by individual states that govern financial transactions, including those related to escrow accounts.&lt;SEP&gt;State law provides regulations and requirements that may affect the terms and enforcement of mortgage agreements and insurance.&lt;SEP&gt;State law encompasses the regulations and legal rules specific to each state in the U.S. that govern various aspects of business, including mortgages and debt obligations.&lt;SEP&gt;State Law refers to the legal framework governing insurance policies and loans in various states, influencing how servicers manage hazard insurance.</data>
-  <data key="d3">chunk-a7a5f1a5e29a35b6e3bade16181f31a5&lt;SEP&gt;chunk-a6301f087c4e151a23a8fbd945a680fd&lt;SEP&gt;chunk-f3f248b6dcc905cb618bc79b5abce479&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-0905754bba6e21ec6367d6bcb98fab30</data>
+  <data key="d2">State Law encompasses the legal framework established by individual U.S. states, governing various aspects of financial transactions, including loans, servicers, mortgage agreements, and insurance policies. It includes specific regulations and statutes that may affect the terms and enforcement of these agreements and transactions. Additionally, State Law regulates escrow accounts and influences how servicers manage hazard insurance. Each state has its own unique set of laws that may impact the obligations and rights of those involved in financial dealings, ensuring that the legal stipulations and regulations are tailored to the requirements and practices pertinent to that state.</data>
+  <data key="d3">chunk-f3f248b6dcc905cb618bc79b5abce479&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-a6301f087c4e151a23a8fbd945a680fd&lt;SEP&gt;chunk-a7a5f1a5e29a35b6e3bade16181f31a5&lt;SEP&gt;chunk-0905754bba6e21ec6367d6bcb98fab30&lt;SEP&gt;chunk-0d21c3f0833b49b42c25a9461457d648</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Mortgage Document">
@@ -362,8 +362,8 @@ In addition to its regulatory functions, the CFPB provides valuable resources, c
 <node id="HUD-1 Settlement Statement">
   <data key="d0">HUD-1 Settlement Statement</data>
   <data key="d1">document</data>
-  <data key="d2">The HUD-1 Settlement Statement is a document that outlines all financial transactions associated with a real estate transaction, which may include details about the escrow account.&lt;SEP&gt;The HUD-1 Settlement Statement is a standard form used to itemize services and fees, including those related to mortgages, in the settlement process.&lt;SEP&gt;The HUD-1 Settlement Statement is a standardized form used to detail the costs associated with a real estate transfer, particularly under the Real Estate Settlement Procedures Act (RESPA).&lt;SEP&gt;The HUD-1 Settlement Statement is a form used in real estate transactions that provides an itemized list of services and fees payable during the closing process.</data>
-  <data key="d3">chunk-83b73ab7e1a0712a79396df18f6ec6fd&lt;SEP&gt;chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-bb980b10f7255e058ada0d49e625f207&lt;SEP&gt;chunk-d168fa7f9f5adeb00ca45ff65bf3fad4</data>
+  <data key="d2">The HUD-1 Settlement Statement is a standardized document that plays a crucial role in real estate transactions. It outlines all financial transactions associated with the sale of property, providing an itemized list of services and fees that are payable during the closing process. This includes details related to mortgages and may also incorporate information about the escrow account. The HUD-1 Settlement Statement is particularly important under the Real Estate Settlement Procedures Act (RESPA), ensuring that all costs associated with a real estate transfer are clearly detailed and transparent for involved parties.</data>
+  <data key="d3">chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-d168fa7f9f5adeb00ca45ff65bf3fad4&lt;SEP&gt;chunk-83b73ab7e1a0712a79396df18f6ec6fd&lt;SEP&gt;chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Public Guidance Documents">
@@ -441,15 +441,15 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="borrower">
   <data key="d0">borrower</data>
   <data key="d1">person</data>
-  <data key="d2">A borrower is an individual who borrows money or obtains a loan, often secured against property and subject to specific ownership and transfer agreements.&lt;SEP&gt;The borrower is an individual who takes a loan and has obligations such as maintaining hazard insurance coverage as required by lenders.&lt;SEP&gt;The borrower is the individual or entity that is responsible for making payments to an escrow account related to a mortgage loan.</data>
-  <data key="d3">chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-17500047ad0180b576e941b2b6f9e69b&lt;SEP&gt;chunk-f0cdb9c7a1d244fe27219462d862b0b2</data>
+  <data key="d2">A borrower is an individual or entity that takes out a loan from a lender, and may be involved in mortgage or insurance transactions.&lt;SEP&gt;A borrower is an individual who borrows money or obtains a loan, often secured against property and subject to specific ownership and transfer agreements.&lt;SEP&gt;The borrower is an individual who takes a loan and has obligations such as maintaining hazard insurance coverage as required by lenders.&lt;SEP&gt;The borrower is the individual or entity that is responsible for making payments to an escrow account related to a mortgage loan.</data>
+  <data key="d3">chunk-f0cdb9c7a1d244fe27219462d862b0b2&lt;SEP&gt;chunk-17500047ad0180b576e941b2b6f9e69b&lt;SEP&gt;chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="servicer">
   <data key="d0">servicer</data>
-  <data key="d1">organization</data>
-  <data key="d2">The servicer is an organization that manages the servicing of a loan on behalf of the lender, including handling payments and insurance notifications.&lt;SEP&gt;The servicer is the entity responsible for managing the escrow account, including disbursing funds and delivering statements to borrowers.</data>
-  <data key="d3">chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-17500047ad0180b576e941b2b6f9e69b</data>
+  <data key="d1">person</data>
+  <data key="d2">A servicer is a party that manages a loan on behalf of a lender, including collecting payments and managing insurance policies.&lt;SEP&gt;The servicer is an organization that manages the servicing of a loan on behalf of the lender, including handling payments and insurance notifications.&lt;SEP&gt;The servicer is the entity responsible for managing the escrow account, including disbursing funds and delivering statements to borrowers.</data>
+  <data key="d3">chunk-17500047ad0180b576e941b2b6f9e69b&lt;SEP&gt;chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="short year statement">
@@ -462,8 +462,8 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="hazard insurance">
   <data key="d0">hazard insurance</data>
   <data key="d1">category</data>
-  <data key="d2">Hazard insurance is a type of insurance that protects homeowners from potential damages to their property and is a requirement by lenders.&lt;SEP&gt;Hazard insurance provides coverage for property damage caused by specific hazards, and payments for this insurance may be managed through an escrow account.</data>
-  <data key="d3">chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-17500047ad0180b576e941b2b6f9e69b</data>
+  <data key="d2">Hazard insurance is a form of property insurance that protects against specific types of damage, often associated with mortgage agreements.&lt;SEP&gt;Hazard insurance is a type of insurance that protects homeowners from potential damages to their property and is a requirement by lenders.&lt;SEP&gt;Hazard insurance provides coverage for property damage caused by specific hazards, and payments for this insurance may be managed through an escrow account.</data>
+  <data key="d3">chunk-17500047ad0180b576e941b2b6f9e69b&lt;SEP&gt;chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="escrow account">
@@ -819,22 +819,22 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="United States">
   <data key="d0">United States</data>
   <data key="d1">geo</data>
-  <data key="d2">The United States is a country in North America and is the location of the Consumer Financial Protection Bureau.&lt;SEP&gt;The United States is a country in North America, serving as the governing body behind the Consumer Financial Protection Bureau.&lt;SEP&gt;The United States is the country where the Consumer Financial Protection Bureau is located and operates.&lt;SEP&gt;The United States is the country where the Consumer Financial Protection Bureau operates, providing oversight and regulations for financial systems.</data>
-  <data key="d3">chunk-d5722058b331687d6a28555128bfb3be&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">The United States is a country in North America, serving as the governing body behind the Consumer Financial Protection Bureau.&lt;SEP&gt;The United States is a country located in North America. It serves as the administrative foundation for the Consumer Financial Protection Bureau (CFPB), which is situated within its borders. The CFPB operates in the United States, providing oversight and regulations for financial systems to ensure consumer protection. This entity plays a critical role in the governance of financial practices in the country.&lt;SEP&gt;The United States is the country where the Consumer Financial Protection Bureau is located and operates.&lt;SEP&gt;The United States is the country where the Consumer Financial Protection Bureau is located and operates.</data>
+  <data key="d3">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Money Topics">
   <data key="d0">Money Topics</data>
   <data key="d1">category</data>
-  <data key="d2">Money Topics comprise various financial categories including Auto Loans, Mortgages, Credit Cards, etc., aimed at educating consumers on financial matters.&lt;SEP&gt;Money Topics refer to various financial subjects covered by the Consumer Financial Protection Bureau, including loans, credit cards, and mortgages.</data>
-  <data key="d3">chunk-d5722058b331687d6a28555128bfb3be&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">Money Topics comprise various financial categories including Auto Loans, Mortgages, Credit Cards, etc., aimed at educating consumers on financial matters.&lt;SEP&gt;Money Topics comprise various financial categories including Auto Loans, Mortgages, Credit Cards, etc., aimed at educating consumers on financial matters.&lt;SEP&gt;Money Topics comprise various financial categories including Auto Loans, Mortgages, Credit Cards, etc., aimed at educating consumers on financial matters.&lt;SEP&gt;Money Topics refer to various financial subjects covered by the Consumer Financial Protection Bureau, including loans, credit cards, and mortgages.&lt;SEP&gt;Money Topics refer to various financial subjects covered by the Consumer Financial Protection Bureau, including loans, credit cards, and mortgages.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Consumer Complaint Database">
   <data key="d0">Consumer Complaint Database</data>
   <data key="d1">category</data>
-  <data key="d2">The Consumer Complaint Database is a resource provided by the Consumer Financial Protection Bureau for consumers to lodge complaints regarding financial products and services.&lt;SEP&gt;The Consumer Complaint Database is a resource provided by the Consumer Financial Protection Bureau for consumers to submit complaints and view trends in consumer issues.&lt;SEP&gt;The Consumer Complaint Database provides access to consumer complaints against financial institutions, allowing for transparency and accountability.</data>
-  <data key="d3">chunk-d5722058b331687d6a28555128bfb3be&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">The Consumer Complaint Database is a resource provided by the Consumer Financial Protection Bureau for consumers to lodge complaints regarding financial products and services.&lt;SEP&gt;The Consumer Complaint Database is a valuable resource offered by the Consumer Financial Protection Bureau (CFPB) that enables consumers to lodge complaints related to financial products and services. This database not only allows consumers to submit their complaints but also provides them with the opportunity to view trends in consumer issues. By facilitating access to these complaints against financial institutions, the Consumer Complaint Database promotes transparency and accountability within the financial sector.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="United States government">
@@ -924,50 +924,50 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Warning Letters">
   <data key="d0">Warning Letters</data>
   <data key="d1">event</data>
-  <data key="d2">Warning Letters are communications issued by the CFPB to inform companies of compliance issues or violations that may require corrective action.&lt;SEP&gt;Warning Letters are formal notifications issued to entities for violations of consumer protection laws and regulations by the Consumer Financial Protection Bureau.&lt;SEP&gt;Warning Letters are official communications issued by the Consumer Financial Protection Bureau to inform entities of wrongful practices and request corrective action.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d2">Warning Letters are official communications issued by the Consumer Financial Protection Bureau (CFPB) to inform companies of compliance issues or violations related to consumer protection laws and regulations. These letters serve as formal notifications to entities regarding wrongful practices and notify them of the need for corrective action. The Warning Letters emphasize the importance of addressing any identified violations to ensure adherence to consumer protection standards.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Payments to Harmed Consumers">
   <data key="d0">Payments to Harmed Consumers</data>
   <data key="d1">event</data>
-  <data key="d2">Payments to Harmed Consumers refer to compensation processes initiated by the Consumer Financial Protection Bureau to reimburse consumers affected by financial wrongdoing.&lt;SEP&gt;Payments to Harmed Consumers refers to financial compensation provided to individuals who have been negatively impacted by violations of consumer protection laws.&lt;SEP&gt;Payments to Harmed Consumers refers to the monetary compensation provided to individuals who have suffered financial harm due to violations of laws by financial institutions.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d2">Payments to Harmed Consumers refer to compensation processes initiated by the Consumer Financial Protection Bureau (CFPB) designed to reimburse individuals who have been adversely affected by financial wrongdoing and violations of consumer protection laws. This compensation is aimed at those who have suffered financial harm due to the actions of financial institutions. The initiative underscores the CFPB's commitment to protecting consumers and ensuring that those who experience negative impacts from unethical financial practices receive adequate financial redress.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Industry Whistleblowers">
   <data key="d0">Industry Whistleblowers</data>
   <data key="d1">event</data>
-  <data key="d2">Industry Whistleblowers are individuals from within the financial sector who provide information about misconduct or violations of regulations to authorities.&lt;SEP&gt;Industry Whistleblowers are individuals who report unsafe or unethical practices within companies in the financial sector to protect consumers and ensure compliance with regulations.&lt;SEP&gt;Industry Whistleblowers refers to individuals in the financial sector who report unethical practices to the Consumer Financial Protection Bureau, aiding in investigations and enforcement.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d2">Industry Whistleblowers are individuals from within the financial sector who report misconduct, unsafe, or unethical practices to relevant authorities, including the Consumer Financial Protection Bureau (CFPB). Their role is vital in providing information about violations of regulations to protect consumers and ensure compliance within the industry. These whistleblowers contribute to investigations and enforcement actions by highlighting illegal or unethical behavior, aiding in promoting accountability in the financial sector. Overall, Industry Whistleblowers play a crucial role in fostering transparency and integrity in financial practices.&lt;SEP&gt;Industry Whistleblowers refers to individuals in the financial sector who report unethical practices to the Consumer Financial Protection Bureau, aiding in investigations and enforcement.</data>
+  <data key="d3">chunk-9ad37f84c5a37ede2df87edb489e24e3&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Compliance">
   <data key="d0">Compliance</data>
   <data key="d1">category</data>
-  <data key="d2">Compliance encompasses the policies and procedures necessary to ensure adherence to relevant laws and regulations within the financial sector.&lt;SEP&gt;Compliance refers to the adherence to laws, regulations, and guidelines set forth by the Consumer Financial Protection Bureau for financial institutions.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
+  <data key="d2">Compliance encompasses the policies and procedures necessary to ensure adherence to relevant laws and regulations within the financial sector.&lt;SEP&gt;Compliance encompasses the policies and procedures necessary to ensure adherence to relevant laws and regulations within the financial sector.&lt;SEP&gt;Compliance refers to the adherence to laws, regulations, and guidelines set forth by the Consumer Financial Protection Bureau for financial institutions.&lt;SEP&gt;Compliance refers to the adherence to laws, regulations, and guidelines set forth by the Consumer Financial Protection Bureau for financial institutions.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Data &amp; Research">
   <data key="d0">Data &amp; Research</data>
   <data key="d1">category</data>
-  <data key="d2">Data &amp; Research encompasses various resources and reports produced by the Consumer Financial Protection Bureau to analyze consumer trends and market conditions.&lt;SEP&gt;Data &amp; Research involves the collection and analysis of financial data to inform policy decisions and monitor consumer protection efforts.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
+  <data key="d2">Data &amp; Research encompasses various resources and reports produced by the Consumer Financial Protection Bureau to analyze consumer trends and market conditions.&lt;SEP&gt;Data &amp; Research encompasses various resources and reports produced by the Consumer Financial Protection Bureau to analyze consumer trends and market conditions.&lt;SEP&gt;Data &amp; Research involves the collection and analysis of financial data to inform policy decisions and monitor consumer protection efforts.&lt;SEP&gt;Data &amp; Research involves the collection and analysis of financial data to inform policy decisions and monitor consumer protection efforts.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Consumer Complaint Program">
   <data key="d0">Consumer Complaint Program</data>
   <data key="d1">event</data>
-  <data key="d2">The Consumer Complaint Program allows individuals to submit grievances regarding financial institutions, ensuring consumer issues are addressed and resolved.&lt;SEP&gt;The Consumer Complaint Program is an initiative by the Consumer Financial Protection Bureau that allows consumers to report complaints regarding financial products and services.&lt;SEP&gt;The Consumer Complaint Program facilitates the collection and resolution of complaints from consumers regarding financial products and services.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d2">The Consumer Complaint Program, an initiative by the Consumer Financial Protection Bureau, enables individuals to submit grievances concerning financial institutions. This program is designed to ensure that consumer issues related to financial products and services are effectively addressed and resolved. It facilitates the collection and resolution of complaints from consumers, allowing them to report their concerns and seek recourse against financial entities.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Federal Regulations">
   <data key="d0">Federal Regulations</data>
   <data key="d1">category</data>
-  <data key="d2">Federal Regulations refer to the rules and guidelines established by the Consumer Financial Protection Bureau to protect consumers in financial transactions.&lt;SEP&gt;Federal regulations encompass the rules and guidelines established by governing bodies to ensure fair practices in financial transactions and consumer protection.</data>
-  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-af08dffacc55223531b7b223d44e95df</data>
+  <data key="d2">Federal Regulations refer to the rules and guidelines established by the Consumer Financial Protection Bureau to protect consumers in financial transactions.&lt;SEP&gt;Federal Regulations refer to the rules and guidelines established by the Consumer Financial Protection Bureau to protect consumers in financial transactions.&lt;SEP&gt;Federal regulations encompass the rules and guidelines established by governing bodies to ensure fair practices in financial transactions and consumer protection.</data>
+  <data key="d3">chunk-af08dffacc55223531b7b223d44e95df&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Compliance Resources">
@@ -980,29 +980,29 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Advisory Opinion Program">
   <data key="d0">Advisory Opinion Program</data>
   <data key="d1">event</data>
-  <data key="d2">The Advisory Opinion Program allows entities to request guidance on particular issues related to compliance with consumer financial regulations.&lt;SEP&gt;The Advisory Opinion Program provides guidance from the Consumer Financial Protection Bureau to help entities understand compliance obligations.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
+  <data key="d2">The Advisory Opinion Program allows entities to request guidance on particular issues related to compliance with consumer financial regulations.&lt;SEP&gt;The Advisory Opinion Program allows entities to request guidance on particular issues related to compliance with consumer financial regulations.&lt;SEP&gt;The Advisory Opinion Program provides guidance from the Consumer Financial Protection Bureau to help entities understand compliance obligations.&lt;SEP&gt;The Advisory Opinion Program provides guidance from the Consumer Financial Protection Bureau to help entities understand compliance obligations.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Consumer Financial Protection Circulars">
   <data key="d0">Consumer Financial Protection Circulars</data>
   <data key="d1">event</data>
-  <data key="d2">Consumer Financial Protection Circulars are communications issued by the Consumer Financial Protection Bureau providing interpretations and clarifications of regulations.&lt;SEP&gt;Consumer Financial Protection Circulars are documents issued by the Consumer Financial Protection Bureau that provide guidance and information on specific consumer financial issues or trends.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
+  <data key="d2">Consumer Financial Protection Circulars are communications issued by the Consumer Financial Protection Bureau providing interpretations and clarifications of regulations.&lt;SEP&gt;Consumer Financial Protection Circulars are communications issued by the Consumer Financial Protection Bureau providing interpretations and clarifications of regulations.&lt;SEP&gt;Consumer Financial Protection Circulars are documents issued by the Consumer Financial Protection Bureau that provide guidance and information on specific consumer financial issues or trends.&lt;SEP&gt;Consumer Financial Protection Circulars are documents issued by the Consumer Financial Protection Bureau that provide guidance and information on specific consumer financial issues or trends.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Supervision and Examinations">
   <data key="d0">Supervision and Examinations</data>
   <data key="d1">event</data>
-  <data key="d2">Supervision and Examinations entail the oversight and evaluation processes conducted by the CFPB to ensure financial institutions comply with laws and regulations.&lt;SEP&gt;Supervision and Examinations refer to the processes by which the Consumer Financial Protection Bureau assesses the compliance of financial institutions with consumer protection laws.&lt;SEP&gt;Supervision and Examinations refer to the monitoring activities conducted by the Consumer Financial Protection Bureau to ensure compliance among financial institutions.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d2">Supervision and Examinations refer to the oversight and evaluation processes carried out by the Consumer Financial Protection Bureau (CFPB) to ensure that financial institutions comply with consumer protection laws and regulations. These activities involve the assessment of financial institutions' compliance and the monitoring of their practices to uphold consumer rights. The CFPB's Supervision and Examinations are crucial in maintaining the integrity of financial services and protecting consumers from potential violations.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Supervisory Highlights">
   <data key="d0">Supervisory Highlights</data>
   <data key="d1">event</data>
-  <data key="d2">Supervisory Highlights are reports summarizing key findings and observations made by the Consumer Financial Protection Bureau during examinations of financial entities.&lt;SEP&gt;Supervisory Highlights summarize findings and trends identified during the examinations conducted by the Consumer Financial Protection Bureau.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
+  <data key="d2">Supervisory Highlights are reports summarizing key findings and observations made by the Consumer Financial Protection Bureau during examinations of financial entities.&lt;SEP&gt;Supervisory Highlights are reports summarizing key findings and observations made by the Consumer Financial Protection Bureau during examinations of financial entities.&lt;SEP&gt;Supervisory Highlights summarize findings and trends identified during the examinations conducted by the Consumer Financial Protection Bureau.&lt;SEP&gt;Supervisory Highlights summarize findings and trends identified during the examinations conducted by the Consumer Financial Protection Bureau.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Supervisory Guidance">
@@ -1036,14 +1036,14 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Financial Well-Being Survey">
   <data key="d0">Financial Well-Being Survey</data>
   <data key="d1">event</data>
-  <data key="d2">The Financial Well-Being Survey aims to assess the financial health and security of consumers in America.&lt;SEP&gt;The Financial Well-Being Survey is an initiative by the Consumer Financial Protection Bureau designed to gauge the financial health and behavior of consumers.</data>
-  <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
+  <data key="d2">The Financial Well-Being Survey aims to assess the financial health and security of consumers in America.&lt;SEP&gt;The Financial Well-Being Survey aims to assess the financial health and security of consumers in America.&lt;SEP&gt;The Financial Well-Being Survey is an initiative by the Consumer Financial Protection Bureau designed to gauge the financial health and behavior of consumers.&lt;SEP&gt;The Financial Well-Being Survey is an initiative by the Consumer Financial Protection Bureau designed to gauge the financial health and behavior of consumers.</data>
+  <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Credit Card Surveys &amp; Agreements">
   <data key="d0">Credit Card Surveys &amp; Agreements</data>
   <data key="d1">category</data>
-  <data key="d2">Credit Card Surveys &amp; Agreements provide insights and information regarding credit card practices, terms, and consumer experiences in the financial market.&lt;SEP&gt;Credit Card Surveys &amp; Agreements refer to data regarding consumer experiences and terms associated with credit card products collected by the Consumer Financial Protection Bureau.</data>
+  <data key="d2">Credit Card Surveys &amp; Agreements provide insights and information regarding credit card practices, terms, and consumer experiences in the financial market.&lt;SEP&gt;Credit Card Surveys &amp; Agreements provide insights and information regarding credit card practices, terms, and consumer experiences in the financial market.&lt;SEP&gt;Credit Card Surveys &amp; Agreements refer to data regarding consumer experiences and terms associated with credit card products collected by the Consumer Financial Protection Bureau.&lt;SEP&gt;Credit Card Surveys &amp; Agreements refer to data regarding consumer experiences and terms associated with credit card products collected by the Consumer Financial Protection Bureau.</data>
   <data key="d3">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d4">unknown_source</data>
 </node>
@@ -1064,8 +1064,8 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="USA.gov">
   <data key="d0">USA.gov</data>
   <data key="d1">organization</data>
-  <data key="d2">USA.gov is the U.S. government's official web portal that provides information and services to the public, directing users to various federal agencies and programs.</data>
-  <data key="d3">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d2">USA.gov is a government website that serves as a portal for U.S. government services and information.&lt;SEP&gt;USA.gov is the U.S. government's official web portal that provides information and services to the public, directing users to various federal agencies and programs.</data>
+  <data key="d3">chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Office of Inspector General">
@@ -1085,50 +1085,50 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="CFPB Ombudsman">
   <data key="d0">CFPB Ombudsman</data>
   <data key="d1">organization</data>
-  <data key="d2">The CFPB Ombudsman is a designated representative within the Consumer Financial Protection Bureau, responsible for addressing concerns and providing information to the public regarding CFPB processes and decisions.</data>
-  <data key="d3">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d2">The CFPB Ombudsman addresses consumer complaints and provides assistance related to consumer finance issues.&lt;SEP&gt;The CFPB Ombudsman is a designated representative within the Consumer Financial Protection Bureau, responsible for addressing concerns and providing information to the public regarding CFPB processes and decisions.&lt;SEP&gt;The CFPB Ombudsman is a part of the Consumer Financial Protection Bureau that helps address concerns and inquiries regarding the Bureau's practices.</data>
+  <data key="d3">chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Office of Minority and Women Inclusion">
   <data key="d0">Office of Minority and Women Inclusion</data>
   <data key="d1">organization</data>
-  <data key="d2">The Office of Minority and Women Inclusion is a division within the Consumer Financial Protection Bureau that aims to promote diversity and inclusion within the bureau's workforce and operations.&lt;SEP&gt;This office ensures that the Bureau's employment practices are equitable and inclusive for women and minority groups.</data>
-  <data key="d3">chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d2">The Office of Minority and Women Inclusion is a division within the Consumer Financial Protection Bureau that aims to promote diversity and inclusion within the bureau's workforce and operations.&lt;SEP&gt;This office ensures that the Bureau's employment practices are equitable and inclusive for women and minority groups.&lt;SEP&gt;The Office of Minority and Women Inclusion is part of the CFPB, focusing on diversity and inclusion efforts within the agency.&lt;SEP&gt;The Office of Minority and Women Inclusion within the CFPB promotes diversity and inclusion in the Bureau's workforce and procurement.</data>
+  <data key="d3">chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Privacy">
   <data key="d0">Privacy</data>
   <data key="d1">category</data>
-  <data key="d2">Privacy refers to policies and practices established by the Consumer Financial Protection Bureau to protect personal information and ensure data confidentiality.</data>
-  <data key="d3">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d2">Privacy encompasses the protections and policies that govern the handling of consumer data by the CFPB.&lt;SEP&gt;Privacy refers to policies and practices established by the Consumer Financial Protection Bureau to protect personal information and ensure data confidentiality.</data>
+  <data key="d3">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Accessibility">
   <data key="d0">Accessibility</data>
   <data key="d1">category</data>
-  <data key="d2">Accessibility encompasses the Consumer Financial Protection Bureau's commitment to ensure that its services and information are available to all consumers, including those with disabilities.</data>
-  <data key="d3">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d2">Accessibility encompasses the Consumer Financial Protection Bureau's commitment to ensure that its services and information are available to all consumers, including those with disabilities.&lt;SEP&gt;Accessibility involves ensuring that services and information provided by the CFPB are available to all individuals, particularly those with disabilities.</data>
+  <data key="d3">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Administrative Adjudication">
   <data key="d0">Administrative Adjudication</data>
   <data key="d1">category</data>
-  <data key="d2">Administrative Adjudication refers to the formal procedures the Consumer Financial Protection Bureau implements for resolving disputes and enforcing regulations.</data>
-  <data key="d3">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d2">Administrative Adjudication pertains to the processes the CFPB uses to resolve disputes related to consumer finance regulations.&lt;SEP&gt;Administrative Adjudication refers to the formal procedures the Consumer Financial Protection Bureau implements for resolving disputes and enforcing regulations.</data>
+  <data key="d3">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Data">
   <data key="d0">Data</data>
   <data key="d1">category</data>
-  <data key="d2">Data refers to the information collected and maintained by the Consumer Financial Protection Bureau to analyze trends, consumer behavior, and compliance with financial regulations.</data>
-  <data key="d3">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d2">Data refers to the information collected and analyzed by the CFPB to improve consumer protection and inform policymaking.&lt;SEP&gt;Data refers to the information collected and maintained by the Consumer Financial Protection Bureau to analyze trends, consumer behavior, and compliance with financial regulations.</data>
+  <data key="d3">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Open Government">
   <data key="d0">Open Government</data>
   <data key="d1">category</data>
-  <data key="d2">Open Government is a principle adopted by the Consumer Financial Protection Bureau aimed at fostering transparency and public engagement in government operations and decision-making.&lt;SEP&gt;Open Government refers to the Bureau's commitment to transparency and providing the public with access to government data and information.</data>
-  <data key="d3">chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d2">Open Government is a principle adopted by the Consumer Financial Protection Bureau aimed at fostering transparency and public engagement in government operations and decision-making.&lt;SEP&gt;Open Government refers to the Bureau's commitment to transparency and providing the public with access to government data and information.&lt;SEP&gt;Open Government refers to the principles and practices promoting transparency in government operations, which is a focus of the CFPB.</data>
+  <data key="d3">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Information Quality Guidelines">
@@ -1169,36 +1169,36 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Auto Loans">
   <data key="d0">Auto Loans</data>
   <data key="d1">category</data>
-  <data key="d2">Auto Loans are a type of financial product that allows consumers to borrow money to purchase vehicles, which is one of the Money Topics provided by the Consumer Financial Protection Bureau.&lt;SEP&gt;Auto Loans refer to financial products specifically designed to facilitate the purchase of vehicles.</data>
-  <data key="d3">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">Auto Loans are a type of financial product that allows consumers to borrow money to purchase vehicles, which is one of the Money Topics provided by the Consumer Financial Protection Bureau.&lt;SEP&gt;Auto Loans are a type of financial product that allows consumers to borrow money to purchase vehicles, which is one of the Money Topics provided by the Consumer Financial Protection Bureau.&lt;SEP&gt;Auto Loans are a type of financial product that allows consumers to borrow money to purchase vehicles, which is one of the Money Topics provided by the Consumer Financial Protection Bureau.&lt;SEP&gt;Auto Loans refer to financial products specifically designed to facilitate the purchase of vehicles.&lt;SEP&gt;Auto Loans refer to financial products specifically designed to facilitate the purchase of vehicles.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Credit Cards">
   <data key="d0">Credit Cards</data>
   <data key="d1">category</data>
-  <data key="d2">Credit Cards are a payment method allowing consumers to borrow funds up to a limit for purchases with the responsibility of repayment.&lt;SEP&gt;Credit Cards represent a method of borrowing money for purchases, which falls under the Money Topics highlighted by the Consumer Financial Protection Bureau.</data>
-  <data key="d3">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">Credit Cards are a payment method allowing consumers to borrow funds up to a limit for purchases with the responsibility of repayment.&lt;SEP&gt;Credit Cards are a payment method allowing consumers to borrow funds up to a limit for purchases with the responsibility of repayment.&lt;SEP&gt;Credit Cards represent a method of borrowing money for purchases, which falls under the Money Topics highlighted by the Consumer Financial Protection Bureau.&lt;SEP&gt;Credit Cards represent a method of borrowing money for purchases, which falls under the Money Topics highlighted by the Consumer Financial Protection Bureau.&lt;SEP&gt;Credit Cards represent a method of borrowing money for purchases, which falls under the Money Topics highlighted by the Consumer Financial Protection Bureau.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Mortgages">
   <data key="d0">Mortgages</data>
   <data key="d1">category</data>
-  <data key="d2">Mortgages are a type of loan specifically used to purchase real estate, with the property itself serving as collateral.&lt;SEP&gt;Mortgages are loans specifically for purchasing real estate, covered under Money Topics by the Consumer Financial Protection Bureau.</data>
-  <data key="d3">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">Mortgages are a type of loan specifically used to purchase real estate, with the property itself serving as collateral.&lt;SEP&gt;Mortgages are a type of loan specifically used to purchase real estate, with the property itself serving as collateral.&lt;SEP&gt;Mortgages are loans specifically for purchasing real estate, covered under Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Mortgages are loans specifically for purchasing real estate, covered under Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Mortgages are loans specifically for purchasing real estate, covered under Money Topics by the Consumer Financial Protection Bureau.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Debt Collection">
   <data key="d0">Debt Collection</data>
   <data key="d1">category</data>
-  <data key="d2">Debt Collection involves the process of pursuing payments of debts owed by individuals or businesses, categorized under Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Debt Collection refers to the process of pursuing payments of debts owed by individuals or businesses.</data>
-  <data key="d3">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">Debt Collection involves the process of pursuing payments of debts owed by individuals or businesses, categorized under Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Debt Collection involves the process of pursuing payments of debts owed by individuals or businesses, categorized under Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Debt Collection involves the process of pursuing payments of debts owed by individuals or businesses, categorized under Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Debt Collection refers to the process of pursuing payments of debts owed by individuals or businesses.&lt;SEP&gt;Debt Collection refers to the process of pursuing payments of debts owed by individuals or businesses.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="United States Government">
   <data key="d0">United States Government</data>
   <data key="d1">organization</data>
-  <data key="d2">The United States Government is the federal government of the United States, responsible for establishing and enforcing federal laws and regulations.&lt;SEP&gt;The United States government is the national government of the United States, which includes various agencies and organizational structures.</data>
-  <data key="d3">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2</data>
+  <data key="d2">The United States Government is the federal government of the United States, responsible for establishing and enforcing federal laws and regulations.&lt;SEP&gt;The United States Government is the federal government of the United States, responsible for establishing and enforcing federal laws and regulations.&lt;SEP&gt;The United States government is the national government of the United States, which includes various agencies and organizational structures.</data>
+  <data key="d3">chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Consumer Education">
@@ -1211,8 +1211,8 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Fraud &amp; Scams">
   <data key="d0">Fraud &amp; Scams</data>
   <data key="d1">category</data>
-  <data key="d2">Fraud &amp; Scams category addresses issues related to deceptive practices aimed at consumers in financial contexts.&lt;SEP&gt;Fraud &amp; Scams refer to illegal activities aimed at deceiving consumers, which is a focus area for the Consumer Financial Protection Bureau's educational resources.</data>
-  <data key="d3">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">Fraud &amp; Scams category addresses issues related to deceptive practices aimed at consumers in financial contexts.&lt;SEP&gt;Fraud &amp; Scams category addresses issues related to deceptive practices aimed at consumers in financial contexts.&lt;SEP&gt;Fraud &amp; Scams refer to illegal activities aimed at deceiving consumers, which is a focus area for the Consumer Financial Protection Bureau's educational resources.&lt;SEP&gt;Fraud &amp; Scams refer to illegal activities aimed at deceiving consumers, which is a focus area for the Consumer Financial Protection Bureau's educational resources.&lt;SEP&gt;Fraud &amp; Scams refer to illegal activities aimed at deceiving consumers, which is a focus area for the Consumer Financial Protection Bureau's educational resources.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Regulatory Agenda">
@@ -1253,8 +1253,8 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Money Transfers">
   <data key="d0">Money Transfers</data>
   <data key="d1">category</data>
-  <data key="d2">Money Transfers are services allowing consumers to send money to others, included in the Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Money Transfers refer to processes and services that allow the transfer of funds between individuals or institutions.</data>
-  <data key="d3">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d2">Money Transfers are services allowing consumers to send money to others, included in the Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Money Transfers are services allowing consumers to send money to others, included in the Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Money Transfers are services allowing consumers to send money to others, included in the Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Money Transfers refer to processes and services that allow the transfer of funds between individuals or institutions.&lt;SEP&gt;Money Transfers refer to processes and services that allow the transfer of funds between individuals or institutions.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Compliance Program">
@@ -1274,15 +1274,15 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Compliance Overview">
   <data key="d0">Compliance Overview</data>
   <data key="d1">event</data>
-  <data key="d2">Compliance Overview entails a summary of the rules and regulations that financial institutions must follow to ensure fair treatment of consumers by the Consumer Financial Protection Bureau.&lt;SEP&gt;Compliance Overview provides a comprehensive outline of the regulatory requirements that organizations in the financial industry must adhere to, ensuring consumer protection and fair practices.</data>
+  <data key="d2">Compliance Overview entails a summary of the rules and regulations that financial institutions must follow to ensure fair treatment of consumers by the Consumer Financial Protection Bureau.&lt;SEP&gt;Compliance Overview entails a summary of the rules and regulations that financial institutions must follow to ensure fair treatment of consumers by the Consumer Financial Protection Bureau.&lt;SEP&gt;Compliance Overview provides a comprehensive outline of the regulatory requirements that organizations in the financial industry must adhere to, ensuring consumer protection and fair practices.&lt;SEP&gt;Compliance Overview provides a comprehensive outline of the regulatory requirements that organizations in the financial industry must adhere to, ensuring consumer protection and fair practices.</data>
   <data key="d3">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Mortgage Servicing">
   <data key="d0">Mortgage Servicing</data>
   <data key="d1">category</data>
-  <data key="d2">Mortgage Servicing refers to the process of managing a borrower's mortgage loan, including collecting payments and handling escrow accounts.&lt;SEP&gt;Mortgage servicing refers to the administrative aspects of managing a mortgage loan including payment processing, managing escrow accounts, and handling borrower inquiries.&lt;SEP&gt;Mortgage servicing involves the management of mortgage accounts and includes tasks like collecting payments and managing escrow accounts.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-daec882166d08546d8f3b9c5cd1cddab</data>
+  <data key="d2">Mortgage Servicing refers to the comprehensive process of managing a borrower's mortgage loan. This includes, but is not limited to, collecting payments, handling escrow accounts, and managing borrower inquiries. It encompasses the administrative aspects necessary for overseeing mortgage accounts effectively, ensuring that all financial transactions are recorded and managed appropriately. Ultimately, mortgage servicing plays a crucial role in the overall maintenance and administration of mortgage loans.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="§ 1024.2 Definitions">
@@ -1435,29 +1435,29 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Comment for 1024.5 Coverage of RESPA">
   <data key="d0">Comment for 1024.5 Coverage of RESPA</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.5 examines the coverage and application of RESPA's provisions.&lt;SEP&gt;This comment interprets the coverage of the Real Estate Settlement Procedures Act (RESPA) as it applies to Regulation X.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.5 examines the coverage and application of RESPA's provisions.&lt;SEP&gt;Comment for 1024.5 examines the coverage and application of RESPA's provisions.&lt;SEP&gt;This comment interprets the coverage of the Real Estate Settlement Procedures Act (RESPA) as it applies to Regulation X.&lt;SEP&gt;This comment interprets the coverage of the Real Estate Settlement Procedures Act (RESPA) as it applies to Regulation X.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.17 Escrow Accounts">
   <data key="d0">Comment for 1024.17 Escrow Accounts</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.17 explains the requirements regarding escrow accounts under RESPA.&lt;SEP&gt;This comment delineates the requirements regarding escrow accounts as mandated by Regulation X.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.17 explains the requirements regarding escrow accounts under RESPA.&lt;SEP&gt;Comment for 1024.17 explains the requirements regarding escrow accounts under RESPA.&lt;SEP&gt;This comment delineates the requirements regarding escrow accounts as mandated by Regulation X.&lt;SEP&gt;This comment delineates the requirements regarding escrow accounts as mandated by Regulation X.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.30 - Scope">
   <data key="d0">Comment for 1024.30 - Scope</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.30 defines the scope and applicability of RESPA regulations.&lt;SEP&gt;This comment clarifies the scope of Regulation X, outlining its applicability and relevant provisions.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.30 defines the scope and applicability of RESPA regulations.&lt;SEP&gt;Comment for 1024.30 defines the scope and applicability of RESPA regulations.&lt;SEP&gt;This comment clarifies the scope of Regulation X, outlining its applicability and relevant provisions.&lt;SEP&gt;This comment clarifies the scope of Regulation X, outlining its applicability and relevant provisions.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.31 - Definitions">
   <data key="d0">Comment for 1024.31 - Definitions</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.31 provides definitions for key terms used in the context of RESPA.&lt;SEP&gt;This comment provides definitions crucial to understanding the terms used within Regulation X.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.31 provides definitions for key terms used in the context of RESPA.&lt;SEP&gt;Comment for 1024.31 provides definitions for key terms used in the context of RESPA.&lt;SEP&gt;This comment provides definitions crucial to understanding the terms used within Regulation X.&lt;SEP&gt;This comment provides definitions crucial to understanding the terms used within Regulation X.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.32 - General Disclosure Requirements.">
@@ -1470,29 +1470,29 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Comment for 1024.33 - Mortgage Servicing Transfers">
   <data key="d0">Comment for 1024.33 - Mortgage Servicing Transfers</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.33 discusses regulations regarding the transfer of mortgage servicing.&lt;SEP&gt;This comment addresses the regulations regarding mortgage servicing transfers under Regulation X.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.33 discusses regulations regarding the transfer of mortgage servicing.&lt;SEP&gt;Comment for 1024.33 discusses regulations regarding the transfer of mortgage servicing.&lt;SEP&gt;This comment addresses the regulations regarding mortgage servicing transfers under Regulation X.&lt;SEP&gt;This comment addresses the regulations regarding mortgage servicing transfers under Regulation X.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.34 - Timely Escrow Payments and Treatment of Escrow Balances">
   <data key="d0">Comment for 1024.34 - Timely Escrow Payments and Treatment of Escrow Balances</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.34 details the requirements for timely escrow payments and management of escrow balances.&lt;SEP&gt;This comment specifies the requirements concerning timely escrow payments and how escrow balances should be treated.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.34 details the requirements for timely escrow payments and management of escrow balances.&lt;SEP&gt;Comment for 1024.34 details the requirements for timely escrow payments and management of escrow balances.&lt;SEP&gt;This comment specifies the requirements concerning timely escrow payments and how escrow balances should be treated.&lt;SEP&gt;This comment specifies the requirements concerning timely escrow payments and how escrow balances should be treated.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.35 - Error Resolution Procedures">
   <data key="d0">Comment for 1024.35 - Error Resolution Procedures</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.35 defines the procedures for resolving errors in mortgage servicing.&lt;SEP&gt;This comment clarifies the procedures that must be followed for resolving errors in mortgage servicing as set by Regulation X.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.35 defines the procedures for resolving errors in mortgage servicing.&lt;SEP&gt;Comment for 1024.35 defines the procedures for resolving errors in mortgage servicing.&lt;SEP&gt;This comment clarifies the procedures that must be followed for resolving errors in mortgage servicing as set by Regulation X.&lt;SEP&gt;This comment clarifies the procedures that must be followed for resolving errors in mortgage servicing as set by Regulation X.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.36 - Requests for Information">
   <data key="d0">Comment for 1024.36 - Requests for Information</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.36 describes the requirements for responding to borrowers' information requests.&lt;SEP&gt;This comment explains the requirements surrounding borrowers' rights to request information from mortgage servicers.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.36 describes the requirements for responding to borrowers' information requests.&lt;SEP&gt;Comment for 1024.36 describes the requirements for responding to borrowers' information requests.&lt;SEP&gt;This comment explains the requirements surrounding borrowers' rights to request information from mortgage servicers.&lt;SEP&gt;This comment explains the requirements surrounding borrowers' rights to request information from mortgage servicers.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.37 - Force-Placed Insurance">
@@ -1512,22 +1512,22 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Comment for 1024.39 - Early Intervention Requirements for Certain Borrowers">
   <data key="d0">Comment for 1024.39 - Early Intervention Requirements for Certain Borrowers</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.39 outlines early intervention requirements for mortgage servicers working with borrowers in distress.&lt;SEP&gt;This comment describes the early intervention requirements that servicers must follow to assist certain borrowers.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.39 outlines early intervention requirements for mortgage servicers working with borrowers in distress.&lt;SEP&gt;Comment for 1024.39 outlines early intervention requirements for mortgage servicers working with borrowers in distress.&lt;SEP&gt;This comment describes the early intervention requirements that servicers must follow to assist certain borrowers.&lt;SEP&gt;This comment describes the early intervention requirements that servicers must follow to assist certain borrowers.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.40 - Continuity of Contact">
   <data key="d0">Comment for 1024.40 - Continuity of Contact</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.40 mandates mortgage servicers to maintain continuity of contact with borrowers.&lt;SEP&gt;This comment dictates the requirements for continuity of contact for borrowers during the servicing process.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.40 mandates mortgage servicers to maintain continuity of contact with borrowers.&lt;SEP&gt;Comment for 1024.40 mandates mortgage servicers to maintain continuity of contact with borrowers.&lt;SEP&gt;This comment dictates the requirements for continuity of contact for borrowers during the servicing process.&lt;SEP&gt;This comment dictates the requirements for continuity of contact for borrowers during the servicing process.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Comment for 1024.41 - Loss Mitigation Procedures">
   <data key="d0">Comment for 1024.41 - Loss Mitigation Procedures</data>
   <data key="d1">category</data>
-  <data key="d2">Comment for 1024.41 outlines requirements for loss mitigation procedures in mortgage servicing.&lt;SEP&gt;This comment outlines the procedures that must be in place for loss mitigation as required by Regulation X.</data>
-  <data key="d3">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d2">Comment for 1024.41 outlines requirements for loss mitigation procedures in mortgage servicing.&lt;SEP&gt;Comment for 1024.41 outlines requirements for loss mitigation procedures in mortgage servicing.&lt;SEP&gt;This comment outlines the procedures that must be in place for loss mitigation as required by Regulation X.&lt;SEP&gt;This comment outlines the procedures that must be in place for loss mitigation as required by Regulation X.</data>
+  <data key="d3">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="All versions of 12 CFR Part 1024">
@@ -1540,8 +1540,8 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Bureau">
   <data key="d0">Bureau</data>
   <data key="d1">organization</data>
-  <data key="d2">The Bureau is a regulatory body that publishes information on settlement services and may issue additional booklets to assist consumers.&lt;SEP&gt;The Bureau is the governmental body responsible for enforcing consumer financial protection laws, including Regulation Z.&lt;SEP&gt;The Bureau refers to the Consumer Financial Protection Bureau (CFPB), which oversees regulations related to consumer finance.&lt;SEP&gt;The Bureau refers to the regulatory authority overseeing the approval and standards for HUD-1 and HUD-1A statements.</data>
-  <data key="d3">chunk-918cc41243b0ac5553824466f93b99c3&lt;SEP&gt;chunk-202d2f76cd0f9edb21526229f52979b1&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-83b73ab7e1a0712a79396df18f6ec6fd</data>
+  <data key="d2">The Bureau is a regulatory body that publishes information on settlement services and may issue additional booklets to assist consumers.&lt;SEP&gt;The Bureau is the governmental body responsible for enforcing consumer financial protection laws, including Regulation Z.&lt;SEP&gt;The Bureau refers to the Consumer Financial Protection Bureau (CFPB), which oversees regulations related to consumer finance.&lt;SEP&gt;The Bureau refers to the regulatory authority overseeing the approval and standards for HUD-1 and HUD-1A statements.&lt;SEP&gt;The Bureau refers to an unspecified regulatory body responsible for the Code of Federal Regulations and the Federal Register, ensuring the accuracy of materials presented in its resources.</data>
+  <data key="d3">chunk-202d2f76cd0f9edb21526229f52979b1&lt;SEP&gt;chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-918cc41243b0ac5553824466f93b99c3&lt;SEP&gt;chunk-83b73ab7e1a0712a79396df18f6ec6fd&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Consumer Financial Protection Bureau (CFPB)">
@@ -1553,16 +1553,16 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 </node>
 <node id="Code of Federal Regulations">
   <data key="d0">Code of Federal Regulations</data>
-  <data key="d1">category</data>
-  <data key="d2">The Code of Federal Regulations is a collection of the general and permanent rules published in the Federal Register by the executive departments and agencies of the U.S. federal government.</data>
-  <data key="d3">chunk-98a7596fcdd08dfd4d9aed526d03c3f2</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Code of Federal Regulations is a collection of the general and permanent rules published in the Federal Register by the executive departments and agencies of the U.S. federal government.&lt;SEP&gt;The Code of Federal Regulations is an official compilation of the general and permanent rules published in the Federal Register by the executive departments and agencies of the United States federal government.</data>
+  <data key="d3">chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Federal Register">
   <data key="d0">Federal Register</data>
-  <data key="d1">event</data>
-  <data key="d2">The Federal Register is the daily journal of the U.S. government, which publishes proposed and final administrative regulations of federal agencies.&lt;SEP&gt;The Federal Register is the official journal of the U.S. government, where changes to regulations, such as those regarding the HUD number or OMB approval number, can be announced.</data>
-  <data key="d3">chunk-98a7596fcdd08dfd4d9aed526d03c3f2&lt;SEP&gt;chunk-83b73ab7e1a0712a79396df18f6ec6fd</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Federal Register is a daily publication that communicates federal agency rules, proposed rules, and public notices to the American public.&lt;SEP&gt;The Federal Register is the daily journal of the U.S. government, which publishes proposed and final administrative regulations of federal agencies.&lt;SEP&gt;The Federal Register is the official journal of the U.S. government, where changes to regulations, such as those regarding the HUD number or OMB approval number, can be announced.</data>
+  <data key="d3">chunk-83b73ab7e1a0712a79396df18f6ec6fd&lt;SEP&gt;chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Bureau of Consumer Financial Protection">
@@ -1589,8 +1589,8 @@ In many cases, hazard insurance is included in the escrow account payments, ensu
 <node id="Office of Civil Rights">
   <data key="d0">Office of Civil Rights</data>
   <data key="d1">organization</data>
-  <data key="d2">The Office of Civil Rights is a division within the Bureau that oversees compliance with civil rights laws and promotes equal access to financial services.</data>
-  <data key="d3">chunk-98a7596fcdd08dfd4d9aed526d03c3f2</data>
+  <data key="d2">The Office of Civil Rights is a division within the Bureau that oversees compliance with civil rights laws and promotes equal access to financial services.&lt;SEP&gt;The Office of Civil Rights within the CFPB is tasked with ensuring equal access and non-discrimination in CFPB activities.&lt;SEP&gt;The Office of Civil Rights within the CFPB enforces civil rights laws related to the financial services industry.</data>
+  <data key="d3">chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-98a7596fcdd08dfd4d9aed526d03c3f2</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="§ 1024.10 One-day advance inspection">
@@ -2165,8 +2165,8 @@ In certain contexts, the Consumer is also involved in bankruptcy proceedings, wh
 <node id="Reverse Mortgages">
   <data key="d0">Reverse Mortgages</data>
   <data key="d1">category</data>
-  <data key="d2">Reverse Mortgages are a type of home loan that allows homeowners to borrow against the equity in their home, typically exempt from certain consumer regulations.&lt;SEP&gt;Reverse mortgages are specialized loans allowing homeowners to convert part of their home equity into cash, not counted in small servicer evaluations.&lt;SEP&gt;Reverse Mortgages are loans for homeowners aged 62 and older that allow them to convert part of their home equity into cash, included in Money Topics by the Consumer Financial Protection Bureau.</data>
-  <data key="d3">chunk-edd2b6454dad4b91c08c0e822e7052a9&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-c7b68da8c1ffbbe5a866c5a2cb00a315</data>
+  <data key="d2">Reverse Mortgages are a type of home loan that allows homeowners to borrow against the equity in their home, typically exempt from certain consumer regulations.&lt;SEP&gt;Reverse mortgages are specialized loans allowing homeowners to convert part of their home equity into cash, not counted in small servicer evaluations.&lt;SEP&gt;Reverse Mortgages are loans for homeowners aged 62 and older that allow them to convert part of their home equity into cash, included in Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Reverse Mortgages are loans for homeowners aged 62 and older that allow them to convert part of their home equity into cash, included in Money Topics by the Consumer Financial Protection Bureau.&lt;SEP&gt;Reverse Mortgages are loans for homeowners aged 62 and older that allow them to convert part of their home equity into cash, included in Money Topics by the Consumer Financial Protection Bureau.</data>
+  <data key="d3">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-edd2b6454dad4b91c08c0e822e7052a9&lt;SEP&gt;chunk-c7b68da8c1ffbbe5a866c5a2cb00a315</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="Timeshare Plans">
@@ -3068,8 +3068,8 @@ In certain contexts, the Consumer is also involved in bankruptcy proceedings, wh
 <node id="insurance company">
   <data key="d0">insurance company</data>
   <data key="d1">organization</data>
-  <data key="d2">The insurance company is a provider of hazard insurance and communicates with borrowers and servicers regarding policy statuses, including cancellations or renewals.</data>
-  <data key="d3">chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
+  <data key="d2">An insurance company provides hazard insurance coverage and is involved in the process of informing borrowers and servicers about policy status and payments.&lt;SEP&gt;The insurance company is a provider of hazard insurance and communicates with borrowers and servicers regarding policy statuses, including cancellations or renewals.</data>
+  <data key="d3">chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
   <data key="d4">unknown_source</data>
 </node>
 <node id="premium payment">
@@ -3219,11 +3219,46 @@ In certain contexts, the Consumer is also involved in bankruptcy proceedings, wh
   <data key="d3">chunk-f0cdb9c7a1d244fe27219462d862b0b2</data>
   <data key="d4">unknown_source</data>
 </node>
+<node id="FOIA">
+  <data key="d0">FOIA</data>
+  <data key="d1">category</data>
+  <data key="d2">The Freedom of Information Act (FOIA) allows the public to request access to records from any federal agency, including the CFPB.</data>
+  <data key="d3">chunk-25c602269240ff304f98a696cdcd7ce1</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="No FEAR Act &amp; Cummings Act">
+  <data key="d0">No FEAR Act &amp; Cummings Act</data>
+  <data key="d1">category</data>
+  <data key="d2">The No FEAR Act &amp; Cummings Act relate to civil rights protections for employees in the federal government and are relevant to the CFPB's operations.</data>
+  <data key="d3">chunk-25c602269240ff304f98a696cdcd7ce1</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Tribal">
+  <data key="d0">Tribal</data>
+  <data key="d1">category</data>
+  <data key="d2">Tribal refers to Native American tribes, as recognized by U.S. law, often relating to specific regulations and protections in financial contexts.</data>
+  <data key="d3">chunk-bff47fe509e4f4d6bcead3da4fd7d82e</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="premium charges">
+  <data key="d0">premium charges</data>
+  <data key="d1">category</data>
+  <data key="d2">Premium charges are the payments made by borrowers to maintain hazard insurance coverage on their property.</data>
+  <data key="d3">chunk-0d21c3f0833b49b42c25a9461457d648</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="notification of cancellation">
+  <data key="d0">notification of cancellation</data>
+  <data key="d1">event</data>
+  <data key="d2">A notification of cancellation is an official communication that a hazard insurance policy is being canceled, affecting the borrower's coverage.</data>
+  <data key="d3">chunk-0d21c3f0833b49b42c25a9461457d648</data>
+  <data key="d4">unknown_source</data>
+</node>
 <edge source="Regulation X" target="RESPA">
-  <data key="d5">24.0</data>
-  <data key="d6">Regulation X enforces the provisions of RESPA, particularly concerning settlement services in federally related mortgage loans.&lt;SEP&gt;Regulation X is a part of the broader legal framework established by RESPA, focusing on settlement procedures and disclosures in real estate transactions.&lt;SEP&gt;Regulation X is established under RESPA to provide guidelines and requirements for mortgage servicing and settlement procedures.</data>
+  <data key="d5">32.0</data>
+  <data key="d6">Regulation X enforces the provisions of RESPA, particularly concerning settlement services in federally related mortgage loans.&lt;SEP&gt;Regulation X is a part of the broader legal framework established by RESPA, focusing on settlement procedures and disclosures in real estate transactions.&lt;SEP&gt;Regulation X is established under RESPA to provide guidelines and requirements for mortgage servicing and settlement procedures.&lt;SEP&gt;Regulation X is established under RESPA to provide guidelines and requirements for mortgage servicing and settlement procedures.</data>
   <data key="d7">regulation enforcement, legal framework&lt;SEP&gt;regulatory framework, compliance&lt;SEP&gt;regulatory framework, consumer law</data>
-  <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-1d42271ce6fb4dee8837d86cbc31e6d3&lt;SEP&gt;chunk-2d9a053c7e6fcbe30183acce208ca0c2</data>
+  <data key="d8">chunk-2d9a053c7e6fcbe30183acce208ca0c2&lt;SEP&gt;chunk-1d42271ce6fb4dee8837d86cbc31e6d3&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Regulation X" target="settlement service provider">
@@ -3325,24 +3360,24 @@ In certain contexts, the Consumer is also involved in bankruptcy proceedings, wh
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Regulation X" target="12 CFR Part 1024">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">12 CFR Part 1024 is another designation for Regulation X, establishing rules for mortgage servicing.")</data>
   <data key="d7">regulatory framework, legal categorization</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Regulation X" target="Official Interpretations">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Official Interpretations clarify the rules and requirements outlined in Regulation X, providing guidance for compliance.")</data>
   <data key="d7">regulatory clarification, compliance guidance</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Regulation X" target="Mortgage Servicing">
-  <data key="d5">18.0</data>
-  <data key="d6">Regulation X governs practices in mortgage servicing to ensure that borrowers receive fair treatment and information.&lt;SEP&gt;Regulation X outlines specific rules and consumer protections related to mortgage servicing practices.")</data>
+  <data key="d5">36.0</data>
+  <data key="d6">Regulation X governs practices in mortgage servicing to ensure that borrowers receive fair treatment and information.&lt;SEP&gt;Regulation X governs practices in mortgage servicing to ensure that borrowers receive fair treatment and information.&lt;SEP&gt;Regulation X outlines specific rules and consumer protections related to mortgage servicing practices.")&lt;SEP&gt;Regulation X outlines specific rules and consumer protections related to mortgage servicing practices.")</data>
   <data key="d7">consumer protection, loan management&lt;SEP&gt;servicing standards, borrower rights</data>
-  <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-df38a08194da67325630df5024565b9d</data>
+  <data key="d8">chunk-df38a08194da67325630df5024565b9d&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Regulation X" target="Bureau of Consumer Financial Protection">
@@ -3395,7 +3430,7 @@ In certain contexts, the Consumer is also involved in bankruptcy proceedings, wh
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Regulation X" target="Good Faith Estimate (GFE) Form">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Good Faith Estimate (GFE) Form is a requirement under Regulation X that aids consumers in understanding mortgage costs.</data>
   <data key="d7">consumer information, transparency</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
@@ -3423,15 +3458,15 @@ In certain contexts, the Consumer is also involved in bankruptcy proceedings, wh
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="RESPA" target="Consumer Financial Protection Bureau">
-  <data key="d5">36.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau enforces RESPA regulations to protect consumers during real estate transactions.&lt;SEP&gt;The Consumer Financial Protection Bureau enforces RESPA to ensure transparency and protect consumers in real estate transactions.&lt;SEP&gt;The Consumer Financial Protection Bureau is responsible for enforcing and overseeing the Real Estate Settlement Procedures Act to protect consumers in financial transactions.&lt;SEP&gt;The Consumer Financial Protection Bureau oversees the adherence to RESPA regulations to protect homebuyers in the real estate settlement process.</data>
+  <data key="d5">63.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau (CFPB) is responsible for enforcing and overseeing the Real Estate Settlement Procedures Act (RESPA) to protect consumers during real estate transactions. The Bureau ensures transparency and safeguards consumer interests in the real estate settlement process by overseeing adherence to RESPA regulations. Through its enforcement of RESPA, the CFPB aims to help homebuyers navigate the complexities of financial transactions related to real estate, ultimately fostering a more secure and informed environment for consumers.</data>
   <data key="d7">regulation enforcement, consumer protection&lt;SEP&gt;regulation, consumer protection&lt;SEP&gt;regulatory oversight, consumer protection</data>
-  <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-bb980b10f7255e058ada0d49e625f207</data>
+  <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-5037dbd90358cc97b80584a3114e27be&lt;SEP&gt;chunk-bb980b10f7255e058ada0d49e625f207&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="RESPA" target="HUD-1 Settlement Statement">
-  <data key="d5">16.0</data>
-  <data key="d6">RESPA establishes requirements for using the HUD-1 Settlement Statement to ensure consumers are informed of settlement costs.&lt;SEP&gt;RESPA includes provisions regarding the use of the HUD-1 Settlement Statement for clear disclosure of settlement costs.</data>
+  <data key="d5">32.0</data>
+  <data key="d6">RESPA establishes requirements for using the HUD-1 Settlement Statement to ensure consumers are informed of settlement costs.&lt;SEP&gt;RESPA establishes requirements for using the HUD-1 Settlement Statement to ensure consumers are informed of settlement costs.&lt;SEP&gt;RESPA includes provisions regarding the use of the HUD-1 Settlement Statement for clear disclosure of settlement costs.&lt;SEP&gt;RESPA includes provisions regarding the use of the HUD-1 Settlement Statement for clear disclosure of settlement costs.</data>
   <data key="d7">legal requirement, real estate&lt;SEP&gt;transparency, cost disclosure</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab&lt;SEP&gt;chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
@@ -3458,35 +3493,35 @@ In certain contexts, the Consumer is also involved in bankruptcy proceedings, wh
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="RESPA" target="Appendix D to Part 1024">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Appendix D mandates the Affiliated Business Arrangement Disclosure Statement required under RESPA regulations.</data>
   <data key="d7">disclosure requirements, regulatory compliance</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="RESPA" target="Comment for 1024.5 Coverage of RESPA">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Comments on 1024.5 clarify and elaborate on the scope of coverage established in RESPA for consumer protection.</data>
   <data key="d7">regulatory clarity, consumer rights</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="RESPA" target="Comment for 1024.30 - Scope">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The comment regarding the scope outlines the applicability of RESPA regulations to various mortgage activities.</data>
   <data key="d7">regulatory framework, scope of application</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="RESPA" target="Comment for 1024.31 - Definitions">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">Comments on definitions provide essential terms for understanding the implementation of RESPA.</data>
   <data key="d7">terminology, regulation understanding</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="RESPA" target="Comment for 1024.32 - General Disclosure Requirements">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">This comment explains the general disclosures mandated under RESPA for transparency in real estate transactions.</data>
   <data key="d7">transparency, consumer information</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
@@ -4302,217 +4337,217 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="United States">
-  <data key="d5">40.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau is a U.S. government agency operating under the jurisdiction of the United States.".&lt;SEP&gt;The Consumer Financial Protection Bureau is a federal agency located in the United States, which implies a geographical relationship.&lt;SEP&gt;The Consumer Financial Protection Bureau is a government agency operating within the jurisdiction of the United States.&lt;SEP&gt;The Consumer Financial Protection Bureau operates within the legal framework and jurisdiction of the United States government.</data>
+  <data key="d5">79.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau (CFPB) is a federal government agency operating under the jurisdiction of the United States. It is located within the United States and functions to serve consumers in financial matters. The CFPB operates within the legal framework established by the United States government, emphasizing its role as a key entity in protecting consumer rights and promoting fair financial practices.&lt;SEP&gt;The Consumer Financial Protection Bureau is a U.S. government agency operating under the jurisdiction of the United States.".&lt;SEP&gt;The Consumer Financial Protection Bureau is a government agency operating within the jurisdiction of the United States.</data>
   <data key="d7">agency location, government&lt;SEP&gt;government agency, jurisdiction&lt;SEP&gt;government agency, national jurisdiction</data>
-  <data key="d8">chunk-d5722058b331687d6a28555128bfb3be&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Money Topics">
-  <data key="d5">17.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau addresses various Money Topics that relate to consumer protection and financial education.&lt;SEP&gt;The Consumer Financial Protection Bureau provides resources on various Money Topics to educate consumers about financial services.</data>
+  <data key="d5">34.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau addresses various Money Topics that relate to consumer protection and financial education.&lt;SEP&gt;The Consumer Financial Protection Bureau addresses various Money Topics that relate to consumer protection and financial education.&lt;SEP&gt;The Consumer Financial Protection Bureau provides resources on various Money Topics to educate consumers about financial services.&lt;SEP&gt;The Consumer Financial Protection Bureau provides resources on various Money Topics to educate consumers about financial services.</data>
   <data key="d7">consumer education, financial topics&lt;SEP&gt;education, consumer resources</data>
-  <data key="d8">chunk-d5722058b331687d6a28555128bfb3be&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Consumer Complaint Database">
-  <data key="d5">19.0</data>
-  <data key="d6">The Consumer Complaint Database is a tool created and maintained by the Consumer Financial Protection Bureau to assist consumers.&lt;SEP&gt;The Consumer Financial Protection Bureau oversees the Consumer Complaint Database as part of its mission to protect consumers.</data>
+  <data key="d5">38.0</data>
+  <data key="d6">The Consumer Complaint Database is a tool created and maintained by the Consumer Financial Protection Bureau to assist consumers.&lt;SEP&gt;The Consumer Complaint Database is a tool created and maintained by the Consumer Financial Protection Bureau to assist consumers.&lt;SEP&gt;The Consumer Financial Protection Bureau oversees the Consumer Complaint Database as part of its mission to protect consumers.&lt;SEP&gt;The Consumer Financial Protection Bureau oversees the Consumer Complaint Database as part of its mission to protect consumers.</data>
   <data key="d7">consumer protection, regulatory oversight&lt;SEP&gt;consumer service, complaint resolution</data>
-  <data key="d8">chunk-d5722058b331687d6a28555128bfb3be&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="United States government">
-  <data key="d5">10.0</data>
+  <data key="d5">20.0</data>
   <data key="d6">The Consumer Financial Protection Bureau operates as an agency under the authority of the United States government, illustrating its governmental ties.</data>
   <data key="d7">government agency, federal oversight</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Spanish language">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau provides resources in Spanish, indicating its commitment to serving Spanish-speaking consumers.</data>
   <data key="d7">language accessibility, outreach</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Chinese language">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Bureau offers resources in Chinese, emphasizing its effort to accommodate non-English speakers and diverse communities.</data>
   <data key="d7">language accessibility, outreach</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Vietnamese language">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Resources in Vietnamese are available, highlighting the Bureau's inclusiveness for Vietnamese-speaking consumers.</data>
   <data key="d7">language accessibility, outreach</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Korean language">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Bureau's provision of Korean resources showcases its inclusive approach towards non-English speakers.</data>
   <data key="d7">language accessibility, outreach</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Tagalog language">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The availability of Tagalog resources by the Bureau demonstrates its commitment to serving the Filipino community in financial matters.</data>
   <data key="d7">language accessibility, outreach</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Russian language">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Bureau provides resources in Russian to ensure that Russian-speaking consumers have access to important information.</data>
   <data key="d7">language accessibility, outreach</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Arabic language">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Bureau's Arabic language resources indicate its intent to engage with Arabic-speaking consumers effectively.</data>
   <data key="d7">language accessibility, outreach</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Haitian Creole language">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The availability of Haitian Creole resources reflects the Bureau's effort to engage with Haitian consumers.</data>
   <data key="d7">language accessibility, outreach</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Financial Tools">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Bureau offers financial tools to assist consumers in effectively managing their finances, aligning with its protective mandate.</data>
   <data key="d7">consumer assistance, financial management</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Warning Letters">
-  <data key="d5">24.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau issues Warning Letters as part of its enforcement actions to address compliance deficiencies.&lt;SEP&gt;The Consumer Financial Protection Bureau issues Warning Letters to enforce compliance and protect consumer rights.&lt;SEP&gt;The Consumer Financial Protection Bureau issues Warning Letters to address non-compliance and advocate for consumer rights.</data>
+  <data key="d5">48.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau (CFPB) issues Warning Letters as part of its enforcement actions to address compliance deficiencies and advocate for consumer rights. These Warning Letters are a mechanism used by the CFPB to enforce compliance among entities and highlight instances of non-compliance. Through this process, the CFPB aims to protect consumer rights and ensure that businesses adhere to regulations. The issuance of these letters reflects the bureau's commitment to maintaining standards in consumer financial practices.</data>
   <data key="d7">enforcement action, compliance communication&lt;SEP&gt;enforcement, consumer protection&lt;SEP&gt;regulatory action, consumer protection</data>
-  <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Payments to Harmed Consumers">
-  <data key="d5">25.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau facilitates Payments to Harmed Consumers as a part of its consumer protection efforts.&lt;SEP&gt;The Consumer Financial Protection Bureau oversees the Payments to Harmed Consumers initiative, ensuring that victims of financial misconduct receive compensation.&lt;SEP&gt;The Consumer Financial Protection Bureau initiates Payments to Harmed Consumers as a corrective action to ensure restitution for affected individuals.</data>
+  <data key="d5">50.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau (CFPB) plays a vital role in facilitating Payments to Harmed Consumers, which is a part of its broader consumer protection efforts. This initiative is designed to ensure that victims of financial misconduct receive the compensation they deserve. The CFPB oversees this program, making sure that it effectively serves as a corrective action to provide restitution for affected individuals. Through these efforts, the CFPB aims to uphold consumer rights and promote accountability within the financial services industry.</data>
   <data key="d7">consumer compensation, regulatory responsibility&lt;SEP&gt;consumer recompense, advocacy&lt;SEP&gt;consumer rights, compensation</data>
-  <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Compliance">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">Compliance involves adhering to the regulations mandated by the Consumer Financial Protection Bureau.</data>
   <data key="d7">regulatory adherence, agency oversight</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Data &amp; Research">
-  <data key="d5">16.0</data>
-  <data key="d6">Data &amp; Research efforts inform the policies and actions taken by the Consumer Financial Protection Bureau.&lt;SEP&gt;Data &amp; Research is conducted by the Consumer Financial Protection Bureau to inform policy and regulatory decisions.</data>
+  <data key="d5">32.0</data>
+  <data key="d6">Data &amp; Research efforts inform the policies and actions taken by the Consumer Financial Protection Bureau.&lt;SEP&gt;Data &amp; Research efforts inform the policies and actions taken by the Consumer Financial Protection Bureau.&lt;SEP&gt;Data &amp; Research is conducted by the Consumer Financial Protection Bureau to inform policy and regulatory decisions.&lt;SEP&gt;Data &amp; Research is conducted by the Consumer Financial Protection Bureau to inform policy and regulatory decisions.</data>
   <data key="d7">data analysis, policy development&lt;SEP&gt;policy analysis, regulatory impact</data>
-  <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
+  <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Consumer Complaint Program">
-  <data key="d5">27.0</data>
-  <data key="d6">The Consumer Complaint Program is facilitated by the Consumer Financial Protection Bureau to collect and address consumer grievances against financial institutions.&lt;SEP&gt;The Consumer Complaint Program is managed by the Consumer Financial Protection Bureau to handle consumer grievances effectively.&lt;SEP&gt;The Consumer Complaint Program is managed by the Consumer Financial Protection Bureau to address consumer grievances and enforce consumer rights.</data>
+  <data key="d5">54.0</data>
+  <data key="d6">The Consumer Complaint Program is facilitated and managed by the Consumer Financial Protection Bureau (CFPB) to collect and address consumer grievances against financial institutions effectively. The program aims to handle consumer complaints and enforce consumer rights, ensuring that individuals can voice their concerns regarding financial products and services. Through this initiative, the CFPB works to address various consumer grievances and enhance accountability among financial institutions.</data>
   <data key="d7">consumer advocacy, complaint resolution&lt;SEP&gt;consumer feedback, grievance resolution&lt;SEP&gt;consumer grievances, enforcement</data>
-  <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Compliance Resources">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau provides Compliance Resources to aid financial institutions in meeting regulatory requirements.</data>
   <data key="d7">regulatory assistance, compliance support</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Advisory Opinion Program">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">The Advisory Opinion Program is managed by the Consumer Financial Protection Bureau to provide guidance on compliance matters.</data>
   <data key="d7">guidance provision, regulatory clarity</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Consumer Financial Protection Circulars">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau issues Circulars to inform stakeholders on pressing consumer financial issues.</data>
   <data key="d7">informative guidance, consumer advocacy</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Supervision and Examinations">
-  <data key="d5">28.0</data>
-  <data key="d6">Supervision and Examinations are activities conducted by the Consumer Financial Protection Bureau to ensure compliance and protect consumers.&lt;SEP&gt;The Consumer Financial Protection Bureau conducts Supervision and Examinations to ensure financial institutions adhere to laws and protect consumers.&lt;SEP&gt;The Supervision and Examinations process is conducted by the Consumer Financial Protection Bureau to ensure compliance among financial institutions.</data>
+  <data key="d5">56.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau (CFPB) conducts Supervision and Examinations as essential activities aimed at ensuring compliance among financial institutions and protecting consumers. These processes are designed to verify that financial institutions adhere to relevant laws and regulations, thereby promoting responsible practices within the industry. The Supervision and Examinations activities reflect the CFPB's commitment to safeguarding consumer interests and fostering a fair financial marketplace.</data>
   <data key="d7">oversight, regulatory enforcement&lt;SEP&gt;regulatory oversight, compliance enforcement&lt;SEP&gt;regulatory oversight, compliance monitoring</data>
-  <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Supervisory Highlights">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Supervisory Highlights are released by the Consumer Financial Protection Bureau to share key findings from examinations of financial institutions.</data>
   <data key="d7">insight sharing, regulatory findings</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Supervisory Guidance">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Supervisory Guidance provided by the Consumer Financial Protection Bureau aims to assist financial institutions in maintaining compliance.</data>
   <data key="d7">regulatory support, compliance recommendations</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Amicus Program">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">The Amicus Program enables the Consumer Financial Protection Bureau to offer legal insights in important consumer finance cases.</data>
   <data key="d7">legal support, consumer protection</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Public Data Inventory">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Public Data Inventory is maintained by the Consumer Financial Protection Bureau to enhance transparency and accessibility of consumer data.</data>
   <data key="d7">data transparency, public resource</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Mortgage Performance Trends">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">Mortgage Performance Trends are analyzed by the Consumer Financial Protection Bureau to assess market conditions and consumer impacts.</data>
   <data key="d7">market analysis, consumer insights</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Financial Well-Being Survey">
-  <data key="d5">16.0</data>
-  <data key="d6">The Financial Well-Being Survey informs the Consumer Financial Protection Bureau about consumer financial stability, influencing policy formulation.&lt;SEP&gt;The Financial Well-Being Survey is a tool used by the Consumer Financial Protection Bureau to evaluate consumer financial health.</data>
+  <data key="d5">32.0</data>
+  <data key="d6">The Financial Well-Being Survey informs the Consumer Financial Protection Bureau about consumer financial stability, influencing policy formulation.&lt;SEP&gt;The Financial Well-Being Survey informs the Consumer Financial Protection Bureau about consumer financial stability, influencing policy formulation.&lt;SEP&gt;The Financial Well-Being Survey is a tool used by the Consumer Financial Protection Bureau to evaluate consumer financial health.&lt;SEP&gt;The Financial Well-Being Survey is a tool used by the Consumer Financial Protection Bureau to evaluate consumer financial health.</data>
   <data key="d7">consumer assessment, financial health&lt;SEP&gt;consumer welfare, research insight</data>
-  <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-3d92c5b54eb19d29639251a5d3792069</data>
+  <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Credit Card Surveys &amp; Agreements">
-  <data key="d5">16.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau analyzes Credit Card Surveys &amp; Agreements to improve consumer understanding of credit products and ensure fair practices.&lt;SEP&gt;The Consumer Financial Protection Bureau collects Credit Card Surveys &amp; Agreements to track consumer experiences with credit products.</data>
+  <data key="d5">32.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau analyzes Credit Card Surveys &amp; Agreements to improve consumer understanding of credit products and ensure fair practices.&lt;SEP&gt;The Consumer Financial Protection Bureau analyzes Credit Card Surveys &amp; Agreements to improve consumer understanding of credit products and ensure fair practices.&lt;SEP&gt;The Consumer Financial Protection Bureau collects Credit Card Surveys &amp; Agreements to track consumer experiences with credit products.&lt;SEP&gt;The Consumer Financial Protection Bureau collects Credit Card Surveys &amp; Agreements to track consumer experiences with credit products.</data>
   <data key="d7">consumer education, fair practices&lt;SEP&gt;consumer experience, credit regulation</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Prepaid Account Agreements">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau regulates Prepaid Account Agreements to ensure fair terms for consumers.</data>
   <data key="d7">regulatory oversight, fair terms</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Nonbank Registry">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Nonbank Registry is utilized by the Consumer Financial Protection Bureau to monitor nonbank entities for compliance.</data>
   <data key="d7">regulatory monitoring, nonbank oversight</data>
   <data key="d8">chunk-3d92c5b54eb19d29639251a5d3792069</data>
@@ -4533,196 +4568,196 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="CFPB Ombudsman">
-  <data key="d5">8.0</data>
-  <data key="d6">The CFPB Ombudsman operates within the Consumer Financial Protection Bureau to assist consumers, demonstrating a direct connection between the organization and the Ombudsman role.</data>
-  <data key="d7">consumer assistance, internal organization</data>
-  <data key="d8">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d5">24.0</data>
+  <data key="d6">The CFPB Ombudsman operates under the Consumer Financial Protection Bureau to handle consumer complaints and provide assistance.&lt;SEP&gt;The CFPB Ombudsman operates within the Consumer Financial Protection Bureau to assist consumers, demonstrating a direct connection between the organization and the Ombudsman role.&lt;SEP&gt;The CFPB Ombudsman operates within the CFPB to address consumer concerns about the Bureau's practices.</data>
+  <data key="d7">consumer advocacy, internal support&lt;SEP&gt;consumer assistance, internal organization&lt;SEP&gt;consumer support, agency function</data>
+  <data key="d8">chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Office of Minority and Women Inclusion">
-  <data key="d5">9.0</data>
-  <data key="d6">The Office of Minority and Women Inclusion functions within the Consumer Financial Protection Bureau to promote diversity, indicating direct institutional support for inclusion.</data>
-  <data key="d7">diversity initiative, organizational structure</data>
-  <data key="d8">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d5">24.0</data>
+  <data key="d6">The Office of Minority and Women Inclusion functions within the Consumer Financial Protection Bureau to promote diversity, indicating direct institutional support for inclusion.&lt;SEP&gt;The Office of Minority and Women Inclusion operates within the Consumer Financial Protection Bureau to promote diversity and inclusion.&lt;SEP&gt;This office operates within the CFPB to ensure diversity and inclusion in its operations.</data>
+  <data key="d7">diversity initiative, organizational structure&lt;SEP&gt;diversity promotion, internal office&lt;SEP&gt;internal agency function, diversity</data>
+  <data key="d8">chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Administrative Adjudication">
-  <data key="d5">8.0</data>
-  <data key="d6">Administrative Adjudication is a process used by the Consumer Financial Protection Bureau for formal dispute resolution, linking the bureau's functions to legal procedures.</data>
+  <data key="d5">16.0</data>
+  <data key="d6">Administrative Adjudication is a process used by the Consumer Financial Protection Bureau for formal dispute resolution, linking the bureau's functions to legal procedures.&lt;SEP&gt;The CFPB uses administrative adjudication processes to resolve disputes and enforce consumer finance regulations.</data>
   <data key="d7">dispute resolution, regulatory enforcement</data>
-  <data key="d8">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d8">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Privacy">
-  <data key="d5">9.0</data>
-  <data key="d6">The privacy policies of the Consumer Financial Protection Bureau are essential for protecting consumer data, tying privacy directly to the bureau's operations.</data>
-  <data key="d7">data protection, consumer trust</data>
-  <data key="d8">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d5">18.0</data>
+  <data key="d6">The CFPB implements privacy policies to protect consumer data during its operations.&lt;SEP&gt;The privacy policies of the Consumer Financial Protection Bureau are essential for protecting consumer data, tying privacy directly to the bureau's operations.</data>
+  <data key="d7">data protection, consumer rights&lt;SEP&gt;data protection, consumer trust</data>
+  <data key="d8">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Accessibility">
-  <data key="d5">9.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau's commitment to accessibility ensures that all the public can access its services, making accessibility an integral part of its mission.</data>
-  <data key="d7">public services, inclusivity</data>
-  <data key="d8">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d5">18.0</data>
+  <data key="d6">The CFPB strives to ensure accessibility in its services and information for all consumers, especially those with disabilities.&lt;SEP&gt;The Consumer Financial Protection Bureau's commitment to accessibility ensures that all the public can access its services, making accessibility an integral part of its mission.</data>
+  <data key="d7">inclusion, consumer services&lt;SEP&gt;public services, inclusivity</data>
+  <data key="d8">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Open Government">
-  <data key="d5">9.0</data>
-  <data key="d6">The Open Government principle demonstrates the CFPB's dedication to transparency, directly impacting how the bureau operates with the public.</data>
-  <data key="d7">transparency, public engagement</data>
-  <data key="d8">chunk-e459edf8a946a99724edc7fee67015b1</data>
+  <data key="d5">18.0</data>
+  <data key="d6">The CFPB adheres to Open Government principles by promoting transparency and public access to its operations and information.&lt;SEP&gt;The Open Government principle demonstrates the CFPB's dedication to transparency, directly impacting how the bureau operates with the public.</data>
+  <data key="d7">transparency, public engagement&lt;SEP&gt;transparency, public trust</data>
+  <data key="d8">chunk-25c602269240ff304f98a696cdcd7ce1&lt;SEP&gt;chunk-e459edf8a946a99724edc7fee67015b1</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="United States Government">
-  <data key="d5">10.0</data>
+  <data key="d5">20.0</data>
   <data key="d6">The Consumer Financial Protection Bureau operates as an agency under the United States Government to protect consumer financial interests.</data>
   <data key="d7">government agency, consumer protection</data>
   <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Consumer Education">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau offers Consumer Education resources to help individuals make informed financial decisions.</data>
   <data key="d7">consumer support, financial literacy</data>
   <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Fraud &amp; Scams">
-  <data key="d5">20.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau addresses issues related to Fraud &amp; Scams to protect consumers from deceptive practices.&lt;SEP&gt;The Consumer Financial Protection Bureau offers resources to help consumers identify and avoid Fraud &amp; Scams.</data>
+  <data key="d5">40.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau addresses issues related to Fraud &amp; Scams to protect consumers from deceptive practices.&lt;SEP&gt;The Consumer Financial Protection Bureau addresses issues related to Fraud &amp; Scams to protect consumers from deceptive practices.&lt;SEP&gt;The Consumer Financial Protection Bureau offers resources to help consumers identify and avoid Fraud &amp; Scams.&lt;SEP&gt;The Consumer Financial Protection Bureau offers resources to help consumers identify and avoid Fraud &amp; Scams.</data>
   <data key="d7">consumer protection, fraud prevention&lt;SEP&gt;consumer safety, fraud prevention</data>
-  <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Regulatory Agenda">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Regulatory Agenda details the Consumer Financial Protection Bureau's planned regulatory initiatives and reforms.</data>
   <data key="d7">regulatory plans, policy development</data>
   <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Final Rules">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Final Rules established by the Consumer Financial Protection Bureau are essential for implementing regulatory policies.</data>
   <data key="d7">policy implementation, regulations</data>
   <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Interactive Regulations">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau provides Interactive Regulations to enhance consumer understanding of financial laws.</data>
   <data key="d7">consumer engagement, regulatory clarity</data>
   <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Resources for Yourself">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau offers Resources for Yourself to assist individuals in managing their finances effectively.</data>
   <data key="d7">financial management, consumer resources</data>
   <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Resources for Helping Others">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau provides Resources for Helping Others to support entities in assisting consumers with financial challenges.</data>
   <data key="d7">community support, consumer assistance</data>
   <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Compliance Program">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau administers the Compliance Program to ensure that financial institutions follow regulations and protect consumers.</data>
   <data key="d7">regulatory enforcement, consumer protection</data>
   <data key="d8">chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Data &amp; Research Section">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau oversees the Data &amp; Research Section to analyze consumer data and improve financial policies.</data>
   <data key="d7">data analysis, policy improvement</data>
   <data key="d8">chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Industry Whistleblowers">
-  <data key="d5">16.0</data>
-  <data key="d6">Industry Whistleblowers report unethical practices to the Consumer Financial Protection Bureau, aiding in investigations.&lt;SEP&gt;The Consumer Financial Protection Bureau supports Industry Whistleblowers by providing protections to those who report violations, enhancing accountability in the financial sector.</data>
+  <data key="d5">32.0</data>
+  <data key="d6">Industry Whistleblowers report unethical practices to the Consumer Financial Protection Bureau, aiding in investigations.&lt;SEP&gt;Industry Whistleblowers report unethical practices to the Consumer Financial Protection Bureau, aiding in investigations.&lt;SEP&gt;The Consumer Financial Protection Bureau supports Industry Whistleblowers by providing protections to those who report violations, enhancing accountability in the financial sector.&lt;SEP&gt;The Consumer Financial Protection Bureau supports Industry Whistleblowers by providing protections to those who report violations, enhancing accountability in the financial sector.</data>
   <data key="d7">whistleblower protection, accountability&lt;SEP&gt;whistleblower support, consumer advocacy</data>
   <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c&lt;SEP&gt;chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Compliance Overview">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Compliance Overview is a section managed by the Consumer Financial Protection Bureau to inform financial institutions of the compliance requirements they must follow.</data>
   <data key="d7">regulatory compliance, consumer protection</data>
   <data key="d8">chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Mortgage Servicing">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau regulates practices surrounding mortgage servicing to ensure fair treatment of borrowers.</data>
   <data key="d7">oversight, borrower protection</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="§ 1024.2 Definitions">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau defines the terms used in its regulations, helping ensure clarity and consistency in understanding mortgage servicing rules.</data>
   <data key="d7">regulatory clarity, definitions</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="§ 1024.5 Coverage of RESPA">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau oversees RESPA, ensuring that its coverage extends to applicable mortgage transactions.</data>
   <data key="d7">regulatory oversight, compliance</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="§ 1024.6 Special information booklet at time of loan application">
-  <data key="d5">10.0</data>
+  <data key="d5">20.0</data>
   <data key="d6">The Consumer Financial Protection Bureau mandates that a special information booklet be provided to borrowers to educate them during the loan application process.</data>
   <data key="d7">borrower education, transparency</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="§ 1024.41 Loss mitigation procedures">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau regulates loss mitigation procedures to ensure that borrowers at risk of default receive necessary assistance.</data>
   <data key="d7">borrower assistance, regulatory compliance</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="§ 1024.40 Continuity of contact">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau requires that mortgage servicers maintain continuity in contact with borrowers to enhance communication and service.</data>
   <data key="d7">regulatory requirement, communication</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="§ 1024.7 Good faith estimate">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau requires the good faith estimate to be provided to borrowers as part of the effort to promote transparency in mortgage costs.</data>
   <data key="d7">cost transparency, borrower information</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="§ 1024.10 One-day advance inspection">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">The Consumer Financial Protection Bureau requires a one-day advance inspection of HUD-1 statements, ensuring borrowers have time to review and understand their settlement costs.</data>
   <data key="d7">pre-settlement review, transparency</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="12 CFR Part 1024">
-  <data key="d5">10.0</data>
+  <data key="d5">20.0</data>
   <data key="d6">The Consumer Financial Protection Bureau is responsible for enforcing and overseeing the implementation of 12 CFR Part 1024.")</data>
   <data key="d7">regulatory authority, consumer protection</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Appendix D">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau oversees and requires Appendix D as part of the regulatory framework for consumer disclosures under Regulation X.")</data>
   <data key="d7">regulatory requirement, consumer financial protection</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
@@ -4757,10 +4792,10 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Reverse Mortgages">
-  <data key="d5">16.0</data>
-  <data key="d6">Regulations regarding reverse mortgages are provided by the Consumer Financial Protection Bureau to ensure consumer awareness and protection.&lt;SEP&gt;The Consumer Financial Protection Bureau regulates Reverse Mortgages as part of its mission to ensure fair lending practices.</data>
+  <data key="d5">25.0</data>
+  <data key="d6">Regulations regarding reverse mortgages are provided by the Consumer Financial Protection Bureau to ensure consumer awareness and protection.&lt;SEP&gt;The Consumer Financial Protection Bureau regulates Reverse Mortgages as part of its mission to ensure fair lending practices.&lt;SEP&gt;The Consumer Financial Protection Bureau regulates Reverse Mortgages as part of its mission to ensure fair lending practices.</data>
   <data key="d7">consumer regulation, mortgage law&lt;SEP&gt;lending practices, consumer rights</data>
-  <data key="d8">chunk-edd2b6454dad4b91c08c0e822e7052a9&lt;SEP&gt;chunk-728d4db6e62d4fda79187b89fc62841e</data>
+  <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e&lt;SEP&gt;chunk-edd2b6454dad4b91c08c0e822e7052a9</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Timeshare Plans">
@@ -4820,101 +4855,136 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Auto Loans">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau provides educational resources regarding Auto Loans as part of its Money Topics.</data>
   <data key="d7">financial education, consumer resources</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Bank Accounts &amp; Services">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau addresses issues related to Bank Accounts &amp; Services as part of its mission to protect consumers.</data>
   <data key="d7">financial services, consumer protection</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Credit Cards">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau provides guidance and regulations related to Credit Cards to safeguard consumer interests.</data>
   <data key="d7">credit management, regulations</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Credit Reports &amp; Scores">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau educates consumers about Credit Reports &amp; Scores to promote informed financial decisions.</data>
   <data key="d7">credit education, financial literacy</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Debt Collection">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau regulates practices around Debt Collection to enhance consumer protection against abusive practices.</data>
   <data key="d7">debt management, regulatory oversight</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Money Transfers">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">The Consumer Financial Protection Bureau includes Money Transfers in their financial education resources for consumers.</data>
   <data key="d7">transaction services, financial literacy</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Mortgages">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Consumer Financial Protection Bureau oversees regulations related to Mortgages to protect consumer interests in home financing.</data>
   <data key="d7">home financing, regulatory agency</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Payday Loans">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau provides information and regulations concerning Payday Loans to inform and protect consumers.</data>
   <data key="d7">short-term loans, consumer awareness</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Prepaid Cards">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">The Consumer Financial Protection Bureau covers Prepaid Cards in its consumer education initiatives.</data>
   <data key="d7">payment methods, consumer education</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Student Loans">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Consumer Financial Protection Bureau provides guidance on Student Loans to help consumers manage their educational financing.</data>
   <data key="d7">educational financing, consumer assistance</data>
   <data key="d8">chunk-728d4db6e62d4fda79187b89fc62841e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Good Faith Estimate">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Bureau oversees the provision of Good Faith Estimates to ensure that consumers are informed about estimated loan costs.</data>
   <data key="d7">consumer information, financial transparency</data>
   <data key="d8">chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Subpart B - Mortgage Settlement and Escrow Accounts">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Bureau oversees compliance with regulations detailed in Subpart B regarding mortgage settlements and escrow accounts.</data>
   <data key="d7">regulation oversight, consumer protection</data>
   <data key="d8">chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="Subpart C - Mortgage Servicing">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The Bureau enforces the regulations outlined in Subpart C concerning how mortgage loans are serviced.</data>
   <data key="d7">regulation oversight, mortgage servicing</data>
   <data key="d8">chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Financial Protection Bureau" target="hazard insurance">
+  <data key="d5">17.0</data>
+  <data key="d6">The Consumer Financial Protection Bureau oversees practices related to hazard insurance to ensure compliance with consumer protection laws.&lt;SEP&gt;The Consumer Financial Protection Bureau oversees regulations and guidelines related to hazard insurance, ensuring consumers are informed and protected.</data>
+  <data key="d7">insurance regulation, consumer rights&lt;SEP&gt;regulatory oversight, consumer protection</data>
+  <data key="d8">chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Consumer Financial Protection Bureau" target="Office of Civil Rights">
+  <data key="d5">16.0</data>
+  <data key="d6">The Office of Civil Rights enforces civil rights laws as part of the CFPB’s mission to protect consumers.&lt;SEP&gt;The Office of Civil Rights is part of the Consumer Financial Protection Bureau, ensuring compliance with civil rights laws.</data>
+  <data key="d7">agency function, civil rights&lt;SEP&gt;civil rights enforcement, consumer protection</data>
+  <data key="d8">chunk-bff47fe509e4f4d6bcead3da4fd7d82e&lt;SEP&gt;chunk-25c602269240ff304f98a696cdcd7ce1</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Consumer Financial Protection Bureau" target="Data">
+  <data key="d5">10.0</data>
+  <data key="d6">The CFPB utilizes data to inform its policies and improve its consumer protection initiatives.</data>
+  <data key="d7">data-driven decision, consumer protection</data>
+  <data key="d8">chunk-25c602269240ff304f98a696cdcd7ce1</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Consumer Financial Protection Bureau" target="Bureau">
+  <data key="d5">9.0</data>
+  <data key="d6">The Bureau oversees the regulations and practices of the consumer finance sector, including legal and regulatory frameworks.</data>
+  <data key="d7">regulation oversight, legal authority</data>
+  <data key="d8">chunk-bff47fe509e4f4d6bcead3da4fd7d82e</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Consumer Financial Protection Bureau" target="Code of Federal Regulations">
+  <data key="d5">9.0</data>
+  <data key="d6">The Code of Federal Regulations includes regulations enforced by the Consumer Financial Protection Bureau, outlining legal expectations for financial entities.</data>
+  <data key="d7">regulatory framework, legal compliance</data>
+  <data key="d8">chunk-bff47fe509e4f4d6bcead3da4fd7d82e</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Consumer Financial Protection Bureau" target="Federal Register">
   <data key="d5">8.0</data>
-  <data key="d6">The Consumer Financial Protection Bureau oversees regulations and guidelines related to hazard insurance, ensuring consumers are informed and protected.</data>
-  <data key="d7">insurance regulation, consumer rights</data>
-  <data key="d8">chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
+  <data key="d6">The Federal Register publishes notices and rules from the Consumer Financial Protection Bureau, informing the public about regulatory changes.</data>
+  <data key="d7">government transparency, rule publication</data>
+  <data key="d8">chunk-bff47fe509e4f4d6bcead3da4fd7d82e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="New Servicer" target="Transfer of Servicing">
@@ -4974,10 +5044,10 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="State Law" target="servicer">
-  <data key="d5">7.0</data>
-  <data key="d6">State law governs how servicers operate, especially regarding the advance payment of insurance premiums and the management of insurance notifications.</data>
-  <data key="d7">legal framework, regulation</data>
-  <data key="d8">chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
+  <data key="d5">15.0</data>
+  <data key="d6">State Law governs the activities of servicers and their responsibilities regarding insurance and loan management.&lt;SEP&gt;State law governs how servicers operate, especially regarding the advance payment of insurance premiums and the management of insurance notifications.</data>
+  <data key="d7">legal framework, regulation&lt;SEP&gt;legal framework, regulatory compliance</data>
+  <data key="d8">chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="HUD-1 Settlement Statement" target="Business Name and Logo">
@@ -5072,10 +5142,10 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="borrower" target="servicer">
-  <data key="d5">16.0</data>
-  <data key="d6">The borrower interacts with the servicer to communicate details regarding their hazard insurance and loan management.&lt;SEP&gt;The servicer manages the escrow account for the borrower and is responsible for timely payments on behalf of the borrower.</data>
-  <data key="d7">loan management, borrower-servicer interaction&lt;SEP&gt;loan servicing, financial management</data>
-  <data key="d8">chunk-d04812c79c1582fb7095dc2e3b192fa7&lt;SEP&gt;chunk-17500047ad0180b576e941b2b6f9e69b</data>
+  <data key="d5">24.0</data>
+  <data key="d6">The borrower interacts with the servicer for managing loans and insurance coverage, including payments and notifications.&lt;SEP&gt;The borrower interacts with the servicer to communicate details regarding their hazard insurance and loan management.&lt;SEP&gt;The servicer manages the escrow account for the borrower and is responsible for timely payments on behalf of the borrower.</data>
+  <data key="d7">loan management, borrower-servicer interaction&lt;SEP&gt;loan management, customer relations&lt;SEP&gt;loan servicing, financial management</data>
+  <data key="d8">chunk-17500047ad0180b576e941b2b6f9e69b&lt;SEP&gt;chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="borrower" target="short year statement">
@@ -5134,6 +5204,27 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d8">chunk-f0cdb9c7a1d244fe27219462d862b0b2</data>
   <data key="d9">unknown_source</data>
 </edge>
+<edge source="borrower" target="hazard insurance">
+  <data key="d5">9.0</data>
+  <data key="d6">The borrower is required to maintain hazard insurance coverage as part of their mortgage agreement.</data>
+  <data key="d7">insurance requirement, financial obligation</data>
+  <data key="d8">chunk-0d21c3f0833b49b42c25a9461457d648</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="borrower" target="premium charges">
+  <data key="d5">9.0</data>
+  <data key="d6">The borrower must pay premium charges to maintain their hazard insurance coverage, as stipulated in their loan agreement.</data>
+  <data key="d7">financial obligation, insurance costs</data>
+  <data key="d8">chunk-0d21c3f0833b49b42c25a9461457d648</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="borrower" target="notification of cancellation">
+  <data key="d5">8.0</data>
+  <data key="d6">The borrower receives notifications of cancellation regarding their hazard insurance from the servicer or insurance company.</data>
+  <data key="d7">insurance status communication, borrower awareness</data>
+  <data key="d8">chunk-0d21c3f0833b49b42c25a9461457d648</data>
+  <data key="d9">unknown_source</data>
+</edge>
 <edge source="servicer" target="short year statement">
   <data key="d5">9.0</data>
   <data key="d6">The servicer is tasked with delivering the short year statement to the borrower following the conclusion of the escrow account computation year.</data>
@@ -5142,10 +5233,10 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="servicer" target="hazard insurance">
-  <data key="d5">10.0</data>
-  <data key="d6">The servicer is responsible for ensuring timely payments for hazard insurance from the borrower's escrow account.</data>
-  <data key="d7">insurance management, timely payments</data>
-  <data key="d8">chunk-17500047ad0180b576e941b2b6f9e69b</data>
+  <data key="d5">17.0</data>
+  <data key="d6">The servicer is responsible for ensuring timely payments for hazard insurance from the borrower's escrow account.&lt;SEP&gt;The servicer is responsible for managing hazard insurance coverage for borrowers as part of their loan servicing duties.</data>
+  <data key="d7">insurance management, loan servicing&lt;SEP&gt;insurance management, timely payments</data>
+  <data key="d8">chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-17500047ad0180b576e941b2b6f9e69b</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="servicer" target="escrow account">
@@ -5170,10 +5261,10 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="servicer" target="insurance company">
-  <data key="d5">9.0</data>
-  <data key="d6">The servicer communicates with the insurance company to manage hazard insurance policies and receive notifications of cancellations or renewals.</data>
-  <data key="d7">policy management, insurance processing</data>
-  <data key="d8">chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
+  <data key="d5">17.0</data>
+  <data key="d6">The servicer communicates with the insurance company to manage hazard insurance policies and receive notifications of cancellations or renewals.&lt;SEP&gt;The servicer coordinates with the insurance company to ensure hazard insurance policies are maintained and notifications are received.</data>
+  <data key="d7">collaboration, insurance management&lt;SEP&gt;policy management, insurance processing</data>
+  <data key="d8">chunk-0d21c3f0833b49b42c25a9461457d648&lt;SEP&gt;chunk-d04812c79c1582fb7095dc2e3b192fa7</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="servicer" target="premium payment">
@@ -5408,42 +5499,49 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Complaint Database" target="Complaint Submission">
-  <data key="d5">10.0</data>
+  <data key="d5">20.0</data>
   <data key="d6">The Consumer Complaint Database provides a platform for submitting complaints, essential for consumer advocacy and issue resolution.</data>
   <data key="d7">consumer advocacy, complaint resolution</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Consumer Complaint Database" target="Money Transfers">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">The Consumer Complaint Database includes complaints related to Money Transfers, allowing for scrutiny of financial practices.</data>
   <data key="d7">consumer issues, financial transactions</data>
   <data key="d8">chunk-cb57ef591f5c6bce5a3a8405291b5f27</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="United States government" target="Resource Availability">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The United States government supports the availability of resources aimed at educating consumers about financial matters through agencies like the Bureau.</data>
   <data key="d7">education support, governmental role</data>
   <data key="d8">chunk-d5722058b331687d6a28555128bfb3be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Industry Whistleblowers" target="Consumer Complaint Program">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">The Consumer Complaint Program often collaborates with Industry Whistleblowers to gather insights on issues affecting consumers and improve compliance.</data>
   <data key="d7">consumer protection, regulatory feedback</data>
   <data key="d8">chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
   <data key="d9">unknown_source</data>
 </edge>
+<edge source="Industry Whistleblowers" target="CFPB Ombudsman">
+  <data key="d5">7.0</data>
+  <data key="d6">The CFPB Ombudsman may assist industry whistleblowers in reporting unethical practices in the financial sector.</data>
+  <data key="d7">whistleblowing, consumer rights</data>
+  <data key="d8">chunk-25c602269240ff304f98a696cdcd7ce1</data>
+  <data key="d9">unknown_source</data>
+</edge>
 <edge source="Compliance" target="Advisory Opinion Program">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The Advisory Opinion Program aids entities in achieving Compliance with consumer financial laws and regulations.</data>
   <data key="d7">guidance, regulatory compliance</data>
   <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Compliance" target="Consumer Financial Protection Circulars">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Consumer Financial Protection Circulars provide important information for achieving Compliance with regulations set by the Consumer Financial Protection Bureau.</data>
   <data key="d7">guidance, regulatory compliance</data>
   <data key="d8">chunk-d681b3426e4796221cff79ceaa80d06c</data>
@@ -5457,10 +5555,17 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Supervision and Examinations" target="Compliance Overview">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Compliance Overview is integral to Supervision and Examinations, as it provides the necessary guidelines for evaluating financial institutions' adherence to regulations.</data>
   <data key="d7">regulatory framework, institutional evaluation</data>
   <data key="d8">chunk-9ad37f84c5a37ede2df87edb489e24e3</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="USA.gov" target="Bureau">
+  <data key="d5">6.0</data>
+  <data key="d6">USA.gov provides a portal to connect citizens with U.S. government agencies including the Bureau.</data>
+  <data key="d7">government resources, public access</data>
+  <data key="d8">chunk-bff47fe509e4f4d6bcead3da4fd7d82e</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Office of Minority and Women Inclusion" target="Bureau of Consumer Financial Protection">
@@ -5485,77 +5590,77 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Mortgage Servicing" target="Appendix MS to Part 1024">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">Appendix MS sets forth regulations relevant to the practices of mortgage servicing as dictated by RESPA.</data>
   <data key="d7">servicing standards, compliance</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Mortgage Servicing" target="Comment for 1024.17 Escrow Accounts">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The comment on 1024.17 addresses key aspects of escrow account management within the mortgage servicing framework.</data>
   <data key="d7">escrow management, compliance</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Mortgage Servicing" target="Comment for 1024.39 - Early Intervention Requirements for Certain Borrowers">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Comment 1024.39 outlines the requirements for mortgage servicers to intervene early with borrowers needing assistance.</data>
   <data key="d7">borrower assistance, proactive measures</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Mortgage Settlement and Escrow Accounts" target="§ 1024.8 Use of HUD-1 or HUD-1A settlement statements">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">The regulations governing Mortgage Settlement and Escrow Accounts include the requirement to use HUD-1 or HUD-1A statements, which are integral to the settlement process.</data>
   <data key="d7">settlement process, compliance</data>
   <data key="d8">chunk-daec882166d08546d8f3b9c5cd1cddab</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="April 19, 2023" target="All versions of 12 CFR Part 1024">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">The April 19, 2023 version represents the most current iteration of 12 CFR Part 1024, incorporating all previous amendments and comments up to that date.")</data>
   <data key="d7">version control, regulatory updates</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Appendix D" target="Appendix E">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">Both Appendix D and E are part of the guidelines provided under Regulation X to ensure consumer understanding of affiliated business arrangements and related calculations.")</data>
   <data key="d7">regulatory supplements, consumer information</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Appendix E" target="Appendix MS">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">Appendix E and MS are structured to guide mortgage servicers in compliance with regulations pertaining to mortgage servicing and disclosures.")</data>
   <data key="d7">guidance documents, compliance</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Appendix MS" target="Comment for 1024.33 - Mortgage Servicing Transfers">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">Appendix MS provides the model forms required in the servicing process, while the comment ensures clarity on regulations about servicing transfers.")</data>
   <data key="d7">model forms, operational clarity</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Appendix MS-1" target="Comment for Appendix MS to Part 1024 - Mortgage Servicing Model Forms and Clauses">
-  <data key="d5">9.0</data>
+  <data key="d5">18.0</data>
   <data key="d6">Appendix MS-1 is part of the broader guidance offered in comments that determine how mortgage servicing should be documented.")</data>
   <data key="d7">model forms, documentation requirements</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Comment for 1024.30 - Scope" target="Comment for 1024.31 - Definitions">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">These comments help to clarify the application and meaning of terms within Regulation X, providing foundational understanding for compliance.")</data>
   <data key="d7">definition clarity, regulatory understanding</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Comment for 1024.35 - Error Resolution Procedures" target="Comment for 1024.41 - Loss Mitigation Procedures">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">These comments relate to procedural requirements in servicing, ensuring borrowers receive fair treatment regarding errors and loss mitigation.")</data>
   <data key="d7">consumer protections, procedural guidelines</data>
   <data key="d8">chunk-df38a08194da67325630df5024565b9d</data>
@@ -6549,45 +6654,52 @@ Additionally, the Servicer communicates directly with the Borrower regarding ins
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Mortgage Servicing Transfers" target="Timely Escrow Payments">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">Timely escrow payments are crucial during mortgage servicing transfers to ensure that the loan obligations are met seamlessly.</data>
   <data key="d7">loan management, payment obligations</data>
   <data key="d8">chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Subpart B - Mortgage Settlement and Escrow Accounts" target="Error Resolution Procedures">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Subpart B includes provisions for Error Resolution Procedures as essential components of the mortgage settlement process.</data>
   <data key="d7">settlement process, regulatory requirements</data>
   <data key="d8">chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Subpart C - Mortgage Servicing" target="Requests for Information">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Subpart C mandates that servicers must respond to Requests for Information to ensure transparency in mortgage servicing.</data>
   <data key="d7">regulatory compliance, borrower rights</data>
   <data key="d8">chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Requests for Information" target="Continuity of Contact">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">Both focus on ensuring effective communication between mortgage servicers and borrowers, a critical aspect for maintaining service quality.</data>
   <data key="d7">communication requirements, consumer rights</data>
   <data key="d8">chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Continuity of Contact" target="Loss Mitigation Procedures">
-  <data key="d5">8.0</data>
+  <data key="d5">16.0</data>
   <data key="d6">Continuity of Contact is crucial for implementing Loss Mitigation Procedures, helping borrowers avoid foreclosure by ensuring they remain informed.</data>
   <data key="d7">communication, foreclosure prevention</data>
   <data key="d8">chunk-bb980b10f7255e058ada0d49e625f207</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="Good Faith Estimate (GFE) Form" target="Appendix C to Part 1024">
-  <data key="d5">7.0</data>
+  <data key="d5">14.0</data>
   <data key="d6">Appendix C provides specific instructions for completing the GFE Form as outlined in RESPA.</data>
   <data key="d7">guidance, documentation</data>
   <data key="d8">chunk-5037dbd90358cc97b80584a3114e27be</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="insurance company" target="notification of cancellation">
+  <data key="d5">8.0</data>
+  <data key="d6">The insurance company issues notifications of cancellation to the servicer to inform them of any changes in coverage status.</data>
+  <data key="d7">insurance communication, policy management</data>
+  <data key="d8">chunk-0d21c3f0833b49b42c25a9461457d648</data>
   <data key="d9">unknown_source</data>
 </edge>
 <edge source="COVID-19-related hardship" target="National Emergencies Act">

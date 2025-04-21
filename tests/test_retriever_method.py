@@ -1,14 +1,14 @@
 import pytest
 from unittest.mock import MagicMock, patch
 from langchain_core.documents import Document
-from retriever.methods import (
+from src.retriever.methods import (
     reciprocal_rank_fusion,
     BasicRetriever,
     BM25RerankedRetriever,
     ReciprocalRankFusionRetriever,
     timeout
 )
-from retriever.models import (
+from src.retriever.models import (
     SearchQuery,
     BasicRetrieverConfig,
     BM25RerankedRetrieverConfig,
@@ -74,8 +74,8 @@ class TestReciprocalRankFusion:
 
 
 
-@patch('retriever.methods.OpenAIEmbeddings')
-@patch('retriever.methods.Chroma')
+@patch('src.retriever.methods.OpenAIEmbeddings')
+@patch('src.retriever.methods.Chroma')
 class TestBasicRetriever:
     def test_initialization(self, mock_chroma, mock_embeddings):
         # Setup mocks
@@ -185,9 +185,9 @@ class TestBasicRetriever:
         mock_vectorstore.similarity_search_with_relevance_scores.assert_called_once_with("test query", k=5)
 
 
-@patch('retriever.methods.OpenAIEmbeddings')
-@patch('retriever.methods.Chroma')
-@patch('retriever.methods.BM25Okapi')
+@patch('src.retriever.methods.OpenAIEmbeddings')
+@patch('src.retriever.methods.Chroma')
+@patch('src.retriever.methods.BM25Okapi')
 class TestBM25RerankedRetriever:
     def test_initialization(self, mock_bm25, mock_chroma, mock_embeddings):
         # Setup mocks
@@ -295,10 +295,10 @@ class TestBM25RerankedRetriever:
         mock_bm25_instance.get_scores.assert_called_once()
 
 
-@patch('retriever.methods.OpenAIEmbeddings')
-@patch('retriever.methods.Chroma')
-@patch('retriever.methods.BM25Okapi')
-@patch('retriever.methods.reciprocal_rank_fusion')
+@patch('src.retriever.methods.OpenAIEmbeddings')
+@patch('src.retriever.methods.Chroma')
+@patch('src.retriever.methods.BM25Okapi')
+@patch('src.retriever.methods.reciprocal_rank_fusion')
 class TestReciprocalRankFusionRetriever:
     def test_initialization(self, mock_rrf, mock_bm25, mock_chroma, mock_embeddings):
         # Setup mocks

@@ -1,24 +1,18 @@
 import asyncio
 import argparse
 import os
+import sys
 import re
 import json
 from pathlib import Path
 from crawl4ai import AsyncWebCrawler
-import sys
 
-sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
-
-# current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
-# root_dir = current_dir.parent
-
-# sys.path.append(str(root_dir))
-
-# Import the configuration
+# Add the parent directory of 'config' to sys.path
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent.parent))
 from config import RAG_CONFIG
 
 # Configure logging
-from utils.logger import get_logger
+from src.utils.logger import get_logger
 logger = get_logger()
 
 

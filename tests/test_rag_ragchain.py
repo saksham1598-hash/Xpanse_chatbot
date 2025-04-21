@@ -1,8 +1,11 @@
 import pytest
 from unittest.mock import patch, MagicMock
 from langchain_core.documents import Document
-
-from rag.rag_chain import RAGChain
+import sys
+import os
+from pathlib import Path
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
+from src.rag.rag_chain import RAGChain
 
 # DummyRunnable to mock langchain Runnable behavior
 class DummyRunnable:
@@ -26,9 +29,9 @@ def dummy_config():
         "llm": {"temperature": 0.0, "model": "test-model"}
     }
 
-@patch('rag.rag_chain.get_retriever')
-@patch('rag.rag_chain.ChatPromptTemplate.from_template')
-@patch('rag.rag_chain.ChatOpenAI')
+@patch('src.rag.rag_chain.get_retriever')
+@patch('src.rag.rag_chain.ChatPromptTemplate.from_template')
+@patch('src.rag.rag_chain.ChatOpenAI')
 def test_init_retrieve_format(mock_chat_openai, mock_from_template, mock_get_retriever, dummy_config):
     # Mock retriever
     retriever = MagicMock()
@@ -53,12 +56,12 @@ def test_init_retrieve_format(mock_chat_openai, mock_from_template, mock_get_ret
     formatted = chain.format_docs([doc1, doc2])
     assert formatted == "doc1\n\n" + "doc2"
 
-@patch('rag.rag_chain.get_retriever')
-@patch('rag.rag_chain.ChatPromptTemplate.from_template')
-@patch('rag.rag_chain.ChatOpenAI')
-@patch('rag.rag_chain.RunnableLambda')
-@patch('rag.rag_chain.RunnablePassthrough')
-@patch('rag.rag_chain.StrOutputParser')
+@patch('src.rag.rag_chain.get_retriever')
+@patch('src.rag.rag_chain.ChatPromptTemplate.from_template')
+@patch('src.rag.rag_chain.ChatOpenAI')
+@patch('src.rag.rag_chain.RunnableLambda')
+@patch('src.rag.rag_chain.RunnablePassthrough')
+@patch('src.rag.rag_chain.StrOutputParser')
 def test_answer_question_flow(mock_str_parser, mock_passthrough, mock_lambda, mock_chat_openai, mock_from_template, mock_get_retriever, dummy_config):
     # Mock retriever
     retriever = MagicMock()

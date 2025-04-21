@@ -1,29 +1,22 @@
 import asyncio
 import argparse
 import json
-import logging
 import os
 import sys
 from pathlib import Path
-from typing import List, Dict, Optional
-
-current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
-root_dir = current_dir.parent
-sys.path.append(str(root_dir))
+from typing import List, Dict
+from pathlib import Path
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent.parent))
 
 from config import RAG_CONFIG
-from data_ingestion.scraper import extract_section, save_markdown_and_mapping
+from src.data_ingestion.extraction.scraper import extract_section, save_markdown_and_mapping
 
 # Import the web crawler
 from crawl4ai import AsyncWebCrawler
 
-
 # Configure logging
-logging.basicConfig(
-    level=logging.INFO, 
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger(__name__)
+from src.utils.logger import get_logger
+logger = get_logger()
 
 async def process_link(url: str, crawler: AsyncWebCrawler) -> bool:
     """

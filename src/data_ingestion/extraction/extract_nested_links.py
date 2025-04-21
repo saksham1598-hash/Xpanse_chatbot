@@ -5,24 +5,18 @@ import asyncio
 import argparse
 import logging
 import json
-from datetime import datetime
-from urllib.parse import urldefrag, urlparse, urlunparse
 from pathlib import Path
-from data_ingestion.scraper import extract_section
-from crawl4ai import AsyncWebCrawler
+from datetime import datetime
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent.parent))
 from config import RAG_CONFIG
 
-current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
-root_dir = current_dir.parent
-sys.path.append(str(root_dir))
-
 # Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger(__name__)
+from src.utils.logger import get_logger
+logger = get_logger()
 
+from urllib.parse import urldefrag, urlparse, urlunparse
+from src.data_ingestion.extraction.scraper import extract_section
+from crawl4ai import AsyncWebCrawler
 
 
 def extract_links_from_markdown(markdown: str) -> list:

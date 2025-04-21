@@ -52,9 +52,12 @@
 #         raise
 
 # retriever/factory.py
-
-from retriever.methods import BasicRetriever, BM25RerankedRetriever, ReciprocalRankFusionRetriever
-from utils.logger import get_logger
+import os
+from pathlib import Path
+import sys
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent))
+from src.retriever.methods import BasicRetriever, BM25RerankedRetriever, ReciprocalRankFusionRetriever
+from src.utils.logger import get_logger
 from pydantic import BaseModel, Field, field_validator
 from typing import Dict, Any, Optional
 

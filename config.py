@@ -28,7 +28,7 @@ Chunk_param = {
     "recursive_chunking": {
         "function": "recursive_chunk",
         "params": {
-            "chunk_size": 1500,
+            "chunk_size": 1000,
             "chunk_overlap": 200
         }
     }

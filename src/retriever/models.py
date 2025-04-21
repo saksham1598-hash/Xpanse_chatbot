@@ -1,3 +1,7 @@
+import os
+from pathlib import Path
+import sys
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent))
 from pydantic import BaseModel, Field, field_validator, model_validator
 from typing import Dict, List, Any, Optional, Union, Tuple
 from langchain_core.documents import Document

@@ -1,6 +1,6 @@
 # tests/test_retriever_models.py
 import pytest
-from retriever.models import (
+from src.retriever.models import (
     SearchQuery, 
     BasicRetrieverConfig,
     BM25RerankedRetrieverConfig,

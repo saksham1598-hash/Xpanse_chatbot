@@ -1,6 +1,6 @@
 from config import RAG_CONFIG
-from rag.rag_chain import RAGChain
-from utils.logger import get_logger
+from src.rag.rag_chain import RAGChain
+from src.utils.logger import get_logger
 import sys
 from dotenv import load_dotenv
 import os

@@ -111,14 +111,15 @@ import os
 import asyncio
 from pathlib import Path
 import sys
-sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent))
+sys.path.append(str(Path(os.path.dirname(os.path.abspath(__file__))).parent.parent))
+
 from lightrag import LightRAG, QueryParam
 from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
 from lightrag.kg.shared_storage import initialize_pipeline_status
 
 # Import configuration
 from config import RAG_CONFIG
-from utils.logger import get_logger
+from src.utils.logger import get_logger
 from dotenv import load_dotenv
 load_dotenv()
 logger = get_logger()
