@@ -4,3 +4,5 @@
 chatbot
 .venv
 .env
+.pytest_cache
+.idea
