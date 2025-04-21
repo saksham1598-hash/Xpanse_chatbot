@@ -8,22 +8,21 @@
 
 ### 1.1 Knowledge Ingestion Pipeline
 - Begins with web scraping from a seed URL:  
-  `https://www.consumerfinance.gov/rules-policy/regulations/1024/17/`
-- Recursively extracts and parses nested links to generate knowledge source.
-- Stores cleaned content in **Markdown** for traceability, version control, and reproducibility.
+  e.g.- `https://www.consumerfinance.gov/rules-policy/regulations/1024/17/`
+- Extracts and parses nested links in the parent webpage to generate knowledge base.
+- Stores cleaned **Markdown** data with metadata for traceability, version control, and reproducibility.
 
 ---
 
 ### 1.2 Flexible Chunking Strategies
 - Supports plug-and-play chunking strategies:
   - `semantic_chunking` using sentence embeddings.
-  - `sentence_token_chunking` with sentence boundary detection.
-  - `recursive_chunking` for character-based, fallback-safe chunking.
-- All chunking behavior is **controlled via a centralized config**, including:
+  - `sentence_token_chunking` with sentence boundary detection and word count.
+  - `recursive_chunking` for character-based chunking.
+- All chunking behavior is **controlled via a centralized config**, including parameters like:
   - Chunk size
   - Overlap
   - Strategy-specific parameters
-- Enables **rapid testing and prototyping** for RAG projects by switching strategies or parameters without changing code.
 
 ---
 
@@ -31,11 +30,11 @@
 - Converts chunked markdown documents into vector embeddings using **OpenAI Embeddings**.
 - Supports multiple chunking strategies and stores results in **Chroma** for efficient semantic search via config parameters.
     - All vectorstores are version-controlled via parameter-based hashing, ensuring reproducibility.
-    - Automatically attaches metadata (filename, chunk type, source) to each chunk for traceable retrieval.
+    - Attaches metadata (filename, chunk type, source) to each chunk for traceable retrieval.
 - Fully configurable and CLI-ready, supporting easy integration into pipelines or automation flows.
     - CLI support to run a single strategy (`--strategy`) or all at once.
 
-This module transforms ingested and chunked documents into vector embeddings for retrieval.
+This module transforms ingested and chunked documents into vector embeddings for retrieval. It enables **rapid testing and prototyping** by switching strategies or parameters to create different vectorstores
 
 ---
 ## 2.  Retriever System
@@ -52,7 +51,6 @@ A modular retrieval layer that turns user queries into precise document hits, wi
   - **BasicRetriever**  
     - Semantic search over Chroma + OpenAI embeddings.  
     - Returns top‑k documents by cosine similarity.  
-    - Exposes both simple (`get_relevant_documents`) and score‑aware (`get_relevant_documents_with_scores`) interfaces.  
   - **BM25RerankedRetriever**  
     - Two‑stage retrieval: first semantic (K = semantic_k), then lexical BM25 reranking (top rerank_k).  
     - Leverages `rank_bm25` on the semantic candidates for precision.  
@@ -62,7 +60,7 @@ A modular retrieval layer that turns user queries into precise document hits, wi
 
 - **Pydantic Validations**  
   - Validates non‑empty, trimmed queries (`min_length=2`, `max_length=1000`).  
-  - Prevents whitespace‑only inputs with a custom validator and validations for other functions of Retriever system
+  - Prevents whitespace‑only inputs with a custom validator, along with validations for other functions of the Retriever system
 
 ---
 ## 3.  RAG Module
@@ -83,9 +81,9 @@ This turns user queries into answers; first via standard RAG, then (optionally) 
 
 - **LightRAG Integration**  
   - Builds a persistent knowledge graph (KG) using `openai_embed` + `gpt_4o_mini_complete`  
-  - loads all markdown docs into the KG for relationship and reference‑driven retrieval which is powerful in this use case
+  - loads all markdown docs into the KG for relationship and reference‑driven retrieval, which is powerful in this use case due to the complex relations and referential nature of the policies
 
-  - **Standard RAG** → if answer quality is sufficient, return immediately.  
+  - **Standard RAG** → If answer quality is sufficient, return immediately.  
   - **KG RAG** → for deeper context or when “more detail” is requested, invokes Graph RAG.
 
 - **Robust Fallback**  
@@ -107,7 +105,7 @@ This turns user queries into answers; first via standard RAG, then (optionally) 
 
 - **Interactive Chat UI**  
   - Provides a text input for user queries and displays LLM answers in real time.  
-  - Offers a “Use Knowledge Graph Fallback” toggle to switch between standard RAG and Graph RAG modes.
+  - Offers a “Use Knowledge Graph Fallback” toggle to invoke Graph RAG for answer generation in case Standard RAG falls short.
 
 - **Feedback & Observability**  
   - Users can rate each response and leave comments.  
@@ -148,13 +146,13 @@ To run the Xpanse Chatbot:
    ```
 
 4. **Configure environment variables**  
-   Copy the .env and fill in the open-ai key (langfuse keys can be found in supplementry folder):
+   Copy the .env and fill in the open-ai key (langfuse keys can be found in the supplementary folder):
  
    Edit `.env` to include:
    ```
    OPENAI_API_KEY=<sk-proj-->
    LANGFUSE_PUBLIC_KEY = <-langfuse-publick-key->
-   LANGFUSE_SECRET_KEY=<- langfuse-private-key>
+   LANGFUSE_SECRET_KEY=<-langfuse-private-key->
    OPENAI_API_BASE="https://api.openai.com/v1"
    LANGFUSE_HOST="http://localhost:3000"
    ```
@@ -163,26 +161,18 @@ To run the Xpanse Chatbot:
    streamlit run streamlit_frontend/app_streamlit.py
    ```
    Then open your browser at `http://localhost:8501` to:
-   - Enter queries  
-   - Toggle “Use Knowledge Graph Fallback”  
-   - Submit feedback (ratings & comments) — all traced in Langfuse
+   - "Enter queries" 
+   - “Use Knowledge Graph”  
+   - "Submit feedback (ratings & comments)" — all traced in Langfuse
 
-6. **(Optional) Start Lanfuse to see LLM traces, interaction  and feedback etc**
+6. **(Optional) Start Lanfuse to see LLM traces, interaction,  and feedback, etc**
     - Open a new terminal
 
     ```
     docker-compose -f langfuse/docker-compose.yml up --build 
     ```
 
-7. **(Optional) Skip data ingestion**  
-   The repository already contains pre‑built vectorstores and KG files under `data/`.  
-   If you need fresh ingestion or chunking, run:
-   ```bash
-   python src/data_ingestion/extraction/scraper.py
-   python src/data_ingestion/transformation/vectorstore_builder.py
-   ```
-
-8. **(Optional) Run the CLI application**  
+7. **(Optional) Run the CLI application**  
    ```bash
    python app.py "What is the latest regulation for escrow accounts?"
    ```
@@ -191,24 +181,24 @@ To run the Xpanse Chatbot:
 ## 6. Key design factors that I aimed to achieve-
 
 - **Modular Architecture & Plug‑and‑Play**  
-  - Clear separation of ingestion, chunking, retrieval and orchestration into dedicated modules keeping in mind single responsibility principle 
+  - Clear separation of ingestion, chunking, retrieval, and orchestration into dedicated modules, keeping in mind the  single responsibility principle 
   - Complete control over parameters via config file for maintainability and fast experimentation
 
 - **Early Validation & Error Handling**  
   - Config‑driven parameters validated by Pydantic schemas (fail‑fast on type or schema mismatches)  
 
 - **Traceability & Repeatability**  
-  - Comprehensive metadata (timestamps, parameter hashes, run IDs) logged at every stage  
-  - Version‑controlled artifacts (vectorstores, knowledge‑graph dumps, JSON configs) enable exact experiment replay
+  - Comprehensive metadata (timestamps, parameter hashes, etc) logged at every stage  
+  - Version‑controlled artifacts (vectorstores, knowledge‑graph dumps, JSON configs)
 
 - **Automation‑Ready & Maintainable**  
-  - CLI commands, Streamlit entry points and monitoring via Langfuse  
-  - Self‑documenting entry scripts and minimal glue code simplify future extension or useage in other workflows
+  - CLI commands, Streamlit entry points, and monitoring via Langfuse  
 
-  **Supplementary file** - https://drive.google.com/drive/folders/1EEHzuRGgdXri4qXXlX3k4OeGmAftqFzu?usp=sharing
+## Supplementary file - 
+      (link- https://drive.google.com/drive/folders/1EEHzuRGgdXri4qXXlX3k4OeGmAftqFzu?usp=sharing)
     - Bonus.md file contains answers to the bonus points - Moving this to AWS and CI/CD production pipeline
     - file related to fine-tuning approach and some example Q/A pairs for comparison
-    - Evolution of responses through different prompt engineering approaches, Standard RAG and Knowledge Graph
+    - Evolution of responses through different prompt engineering approaches, Standard RAG, and Knowledge Graph
 
 
 
