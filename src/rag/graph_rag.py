@@ -119,17 +119,17 @@ def answer_question_KG(rag, query_text):
         return loop.run_until_complete(answer_question_KG_async(rag, query_text))
     
 
-# # For testing outside of Streamlit
-# if __name__ == "__main__":
-#     import nest_asyncio
-#     nest_asyncio.apply()  # This allows nested asyncio loops
+# For testing outside of Streamlit
+if __name__ == "__main__":
+    import nest_asyncio
+    nest_asyncio.apply()  # This allows nested asyncio loops
     
-#     async def test_query():
-#         rag = await initialize_rag()
-#         query = "What are the main requirements for an escrow account?"
-#         response = await answer_question_KG_async(rag, query)
-#         print("Query Response:\n", response)
-#         return response
+    async def test_query():
+        rag = await initialize_rag()
+        query = "What are the main requirements for an escrow account?"
+        response = await answer_question_KG_async(rag, query)
+        print("Query Response:\n", response)
+        return response
     
-#     # This is safe to run as a standalone script
-#     asyncio.run(test_query())
+    # This is safe to run as a standalone script
+    asyncio.run(test_query())
