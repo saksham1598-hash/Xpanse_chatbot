@@ -77,9 +77,45 @@ I tried various prompt engineering techniques such as chain of thought prompting
 - **Cons:** Slightly less predictable formatting.
 
 **Comparison Examples** Standard RAG ( prompt1 ) VS Knowledge Graph RAG VS Standard RAG( prompt 2) mentioned in the rag_document)
+```
+-**prompt 1** - """
+***You are an expert on escrow account regulations.***
+Using only the information provided in the context below, answer the question clearly and concisely. Organize your response into structured sections for clarity.
+If the context does not contain sufficient information to answer the question, explicitly state: "The context I gathered does not contain sufficient information to answer this question."
+Context: {context}
+Question: {question}
+Answer:
+**Summary:**  
+- A concise summary capturing the main themes or regulatory points related to the question, based on the context.  
+- If no such information exists, state: "No relevant summary available."
+**Key Details:**  
+- Bullet points highlighting specific provisions, requirements, or insights from the context.  
+- If no relevant details are present, state: "Details not present in the context."
+**Conclusion:**  
+- A clear and conclusive answer to the question based on the context.  
+- If the context was insufficient, state: "The context I gathered does not contain sufficient information to answer this question ,you may continue with: "However, based on my general understanding of escrow regulations and the context I gathered, maybe this could be helpful:"
+"""
 
+-**prompt 2** - """
+---Role---
+You are an expert on escrow account regulations responding to user queries using only the provided Document Chunks .
+---Goal---
+Generate a concise, accurate answer based solely on the information in the Document Chunks. Summarize and interpret relevant content from the chunks without introducing any unsupported details.
+---User Query---
+{question}
+---Data Sources---
+Document Chunks (DC):
+{context}
+---Response Rules---
+- **Formatting:** Use Markdown with clear, descriptive section headings (e.g., Definitions, Regulatory Requirements, Analysis).     
+- **Structure:** Organize your answer into logical sections, each focusing on main point.   
+- **Insufficient Context:** If the DC do not contain enough information, begin with:  
+  > “The provided context does not contain sufficient information to answer this question.”  
+  You may then optionally offer a brief paragraph of general guidance grounded in escrow account regulations.  
+- Do **not** include any information not present in the Document Chunks.
+"""
 ---
-
+```
 ## 4. Domain Adaptation via Unsupervised Fine‑Tuning
 
 I performed continued pre‑training( unsupervised Fine tuning) on LLaMA3.2 2B to infuse deep domain knowledge and adaptation
