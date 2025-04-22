@@ -22,4 +22,3 @@ Answer:
 
 
 
-# q-A borrower's initial escrow account statement shows an anticipated increase in property taxes in the second year of the loan. According to the regulation, what specific document is the originator or servicer encouraged to provide to the consumer in this situation, and what is the purpose of this disclosure?
